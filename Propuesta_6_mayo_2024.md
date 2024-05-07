@@ -193,3 +193,42 @@ La lista que se presente puede tener cargos extra, siempre y cuando tengan algui
 **Artículo 27:** Con un grupo de 8 representantes se puede convocar una sesión del consejo para hablar de solo un solo tema en específico.
 
 **Artículo 28:** Con 12 representados se puede obligar a la directiva a organizar un proyecto
+
+## **Capítulo : Sobre las Reformas**
+
+**Artículo:** Tipos de reforma 
+   1) Estructural; inclusión y eliminación de artículos. 
+   1) Gramatical; modificación a la redacción de los estatutos existentes.
+
+**Artículo:** Quienes pueden proponer reformas 
+   1) Dos tercios del Consejo de Delegados; conformado por todos los Delegados generacionales y la directiva del Centro de Estudiantes de Ciencias de Datos,
+   1) 20% de los estudiantes de la facultad,
+   presentando dicha petición en las instancias de asamblea normal o extraordinaria.
+
+**Artículo:** Toda proposición de reforma estatutaria deberá presentarse por escrito y estar contenida en un proyecto articulado, acompañado de un argumento que justifique la solicitud de la reforma.
+
+**Artículo:** La propuesta de reforma deberá ser presentada a una comisión creada en asamblea compuesta por : 
+   1) Dos delegados generacionales electos por sorteo
+   1) Tres estudiantes de la carrera electos por sorteo  
+   1) Un representante de la Directiva quien la preside 
+
+**Artículo:** Dicha comisión analizará los alcances y realizará el estudio técnico de la propuesta. Además realizará una aprobación interna de la reforma, que requerirá el voto favorable de la mitad de los integrantes para que esta sea presentada oficialmente y se lleve a plebiscito. 
+abierto.
+
+**Artículo:** Si una reforma genera una incompatibilidad con los estatutos vigentes, esta en su presentación deberá contener artículos transitorios que establezcan soluciones a las incompatibilidades existentes. La vigencia de estos es de máximo un año sin posibilidad de extensión. Terminado este periodo son eliminados automáticamente de los estatutos vigentes.
+
+**Artículo:** La aprobación del proyecto de reforma en plebiscito  La aprobación del Proyecto de Reforma requerirá el voto favorable de la mayoría simple de los alumnos regulares de la licenciatura en Ingeniería en Ciencias de Datos.
+
+**Artículo:** Toda reforma aprobada entrará en vigencia en un plazo de dos semanas desde las votaciones. En las cuales, se debe publicar el nuevo estatuto con la inclusión de la reforma y se debe guardar una copia física en las oficinas de la facultad.
+
+## **Capítulo : Sobre los medios de comunicación**
+
+**Artículo:** Los medios oficiales de comunicación con la comunidad, deben ser establecidos por la directiva vigente; considerando obligatoriamente el correo institucional. En estos se difundirá toda la información que se quiera y deba hacer llegar a les integrantes de la facultad. Incluyéndose :
+   1) Integrantes de la directiva vigente y medios de comunicación oficiales a utilizar
+   1) Llamados a Asambleas normales y extraordinarias, con la posterior publicación del acta respectiva de la sesión.
+   1) Informaciónes relativas a las votaciones de la directiva, listas postulantes y fechas de los procesos.
+   1) Se deben mantener publicados los estatutos vigentes de cada año.
+  
+
+
+
