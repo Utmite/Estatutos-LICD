@@ -1,0 +1,2 @@
+# Propuesta de Estatutos para el Centro de Estudiantes de Ciencia de Datos
+Este repositorio contiene el avance de la propuesta de estatutos para regular el Centro de Estudiantes de la carrera en Ciencia de Datos, así como las actas de la comisión que los redacta.
