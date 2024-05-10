@@ -116,3 +116,17 @@ La lista que se presente puede tener cargos extra, siempre y cuando tengan algui
 1) Retirar el apoyo a una iniciativa estudiantil
 1) Obligar a la directiva a realizar un proyecto
 1) Aprobar cuanto dinero es asignado a una iniciativa estudiantil, monto propuesto por presidencia
+### Funcionamiento del consejo
+**Artículo 14:** El consejo funcionará de la siguiente manera
+
+1) Al menos una vez cada mes académico debe sesionar. 
+1) La fecha a realizar una sesión ordinaria será definida por los que integrantes con derecho a voto del consejo y presidencia
+1) Una sesión extraordinaria puede ser convocada por un tercio de los integrantes con derecho a voto o por presidencia y debe ser llevada en las próximas 24 horas
+1) Debe existir un acta
+1) El encargo de presidir consejo será definido de forma al azar de los integrantes de la sesión, excluyendo al representante de presidencia, esta persona debe mantener el respeto y gestionar el uso de la palabra durante la sesión
+1) El encargado del acta será definido de forma al azar, excluyendo al representante de presidencia de la directiva y al encargado de presidir el consejo
+1) Cada consejo sea ordinario o extraordinario debe tener una tabla de los temas a discutir
+1) Para llevar a cabo un consejo ordinario se necesita 50% de los integrantes con derecho a voto y un representante de la directiva
+1) Para llevar a cabo un consejo extraordinario se necesita un 30% de integrantes con derecho a voto y un representante de directiva
+1) Cuando se realice una votación, cada persona con derecho a voto tiene un solo voto, se hará a mano alzada y debe quedar registro en el acta, de cómo votó cada integrante
+1) La opción con mayoría de votos es la que sale aprobada, en caso de empate, decide el representante de presidencia
