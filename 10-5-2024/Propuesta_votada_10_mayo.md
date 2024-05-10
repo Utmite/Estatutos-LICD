@@ -130,3 +130,15 @@ La lista que se presente puede tener cargos extra, siempre y cuando tengan algui
 1) Para llevar a cabo un consejo extraordinario se necesita un 30% de integrantes con derecho a voto y un representante de directiva
 1) Cuando se realice una votación, cada persona con derecho a voto tiene un solo voto, se hará a mano alzada y debe quedar registro en el acta, de cómo votó cada integrante
 1) La opción con mayoría de votos es la que sale aprobada, en caso de empate, decide el representante de presidencia
+
+**Artículo 15:**  Corresponde a la tabla de temas del consejo:
+
+1) La directiva puede proponer temas
+1) Los representantes generacionales o el representante académico puede proponer temas
+1) Los representados pueden proponer temas en la tabla (Ver Poder Civil)
+1) Las prioridades de los temas propuestos en la tabla son: 
+1. propuestas por estudiantes; 
+1. propuestas por el representante de la consejería académica
+1. propuestas por el representante de presidencia de la directiva; 
+1. propuestas por algún representante generacional
+
