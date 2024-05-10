@@ -91,9 +91,9 @@ La lista que se presente puede tener cargos extra, siempre y cuando tengan algui
 
 ## Poder legislativo
 ### Composición y funciones
-**Artículo 11:** El consejo de representantes o simplemente consejo es el órgano legislativo del centro de estudiantes, estará compuesto por 2 (dos) representantes por cada generación (con derecho a voto), el representante de la consejería académica (con derecho a voto) y un representante de la directiva (con derecho a voto)
+**Artículo 12:** El consejo de representantes o simplemente consejo es el órgano legislativo del centro de estudiantes, estará compuesto por 2 (dos) representantes por cada generación (con derecho a voto), el representante de la consejería académica (con derecho a voto) y un representante de la directiva (con derecho a voto)
 
-**Artículo 12:** Corresponde a los representantes generacionales
+**Artículo 13:** Corresponde a los representantes generacionales
 
 1) Representar políticamente a su generación
 1) Velar por el buen desempeño académico, viendo si hay necesidad pedir ayuda a la consejería académica
@@ -101,7 +101,7 @@ La lista que se presente puede tener cargos extra, siempre y cuando tengan algui
 1) Pedir información a la directiva
 1) Proponer temas para discutir en el consejo
 
-**Artículo 13:** Son facultades del consejo 
+**Artículo 14:** Son facultades del consejo 
 
 1) Fiscalizar a la directiva en el orden financiero, de realización de proyectos u otro tema
 1) Obtener cualquier información de las acciones llevadas por la directiva
@@ -113,7 +113,7 @@ La lista que se presente puede tener cargos extra, siempre y cuando tengan algui
 1) Obligar a la directiva a realizar un proyecto
 1) Aprobar cuanto dinero es asignado a una iniciativa estudiantil, monto propuesto por presidencia
 ### Funcionamiento del consejo
-**Artículo 14:** El consejo funcionará de la siguiente manera
+**Artículo 15:** El consejo funcionará de la siguiente manera
 
 1) Al menos una vez cada mes académico debe sesionar. 
 1) La fecha a realizar una sesión ordinaria será definida por los que integrantes con derecho a voto del consejo y presidencia
@@ -127,7 +127,7 @@ La lista que se presente puede tener cargos extra, siempre y cuando tengan algui
 1) Cuando se realice una votación, cada persona con derecho a voto tiene un solo voto, se hará a mano alzada y debe quedar registro en el acta, de cómo votó cada integrante
 1) La opción con mayoría de votos es la que sale aprobada, en caso de empate, decide el representante de presidencia
 
-**Artículo 15:**  Corresponde a la tabla de temas del consejo:
+**Artículo 16:**  Corresponde a la tabla de temas del consejo:
 
 1) La directiva puede proponer temas
 1) Los representantes generacionales o el representante académico puede proponer temas
@@ -138,7 +138,7 @@ La lista que se presente puede tener cargos extra, siempre y cuando tengan algui
 1. propuestas por el representante de presidencia de la directiva; 
 1. propuestas por algún representante generacional
 
-**Artículo 16:** Corresponde al acta
+**Artículo 17:** Corresponde al acta
 
 1) Dejar en claro quiénes asistieron
 1) Dejar en claro que se habló
@@ -146,10 +146,10 @@ La lista que se presente puede tener cargos extra, siempre y cuando tengan algui
 1) Dejar en claro quién votó por cada opción
 1) El acta estará en Github en un archivo markdown llamado acta general, la cual contendrá el registro de todas las reuniones llevadas a cabo desde la entrada en funcionamiento del estatuto, la última sesión debe ser la primera que aparece en el acta general
 
-**Artículo 17:** La decisión de paro siempre será mediante plebiscito 
+**Artículo 18:** La decisión de paro siempre será mediante plebiscito 
 
 ## Consejería Académica
-**Artículo 18:** Atribuciones de la Consejería Académica
+**Artículo 19:** Atribuciones de la Consejería Académica
 
 1) Colaborar con la directiva en el trabajo de eventos académicos
 1) Velar por lo que los estudiantes estén en proceso de permanencia
@@ -157,99 +157,124 @@ La lista que se presente puede tener cargos extra, siempre y cuando tengan algui
 1) Organizar eventos de carácter académico
 1) Difusión en medios oficiales con todo lo que respecte a lo académico
 
-**Artículo 19:** Del consejero académico
+**Artículo 20:** Del consejero académico
 
 1) Participar en el consejo
 1) Representar a los estudiantes en temas académicos frente a la universidad
 1) En caso que la universidad tenga un cargo estudiantil en un consejo y sea de carácter académico, el consejero será el encargado de ese cargo
 1) Designar a alguien que vaya en representación a un evento académico de la universidad (se recomienda al subconsejero, sin embargo si y solo debe ser de la consejería académica o del consejo)
 
-**Artículo 20:** Del subconsejero académico
+**Artículo 21:** Del subconsejero académico
 
 1) Ayudar al consejero académico
 
-**Artículo 21:** La consejería académica tienen la obligación de lograr que la soluciones de las interrogaciones, exámenes, talleres y tareas sean públicas, y posteriormente guardarlas en una la carpeta en la nube (OneDrive) o crear una página web para permitir el acceso u otro medio.
+**Artículo 22:** La consejería académica tienen la obligación de lograr que la soluciones de las interrogaciones, exámenes, talleres y tareas sean públicas, y posteriormente guardarlas en una la carpeta en la nube (OneDrive) o crear una página web para permitir el acceso u otro medio.
+
 ## Poder civil
 ### Iniciativas estudiantiles
-**Artículo 22:** Los estudiantes representados pueden crear iniciativas propias o participar en iniciativas
 
-**Artículo 23:** Las iniciativas estudiantiles pueden pedir apoyo mediante una carta entregada a un miembro del consejo o de la directiva, la persona que reciba esta carta debe agregar el tema a la tabla sobre apoyar a esa iniciativa
+I. Finalidades, miembros, derechos y deberes de las iniciativas
 
-**Artículo 24:** El consejo votará si aprueba o rechaza la idea de apoyar la iniciativa estudiantil.
+**Artículo 23:** Se entiende por iniciativa estudiantil asociada al Centro de Alumnos de LICD como una agrupación de personas organizada, con un mismo fin desde y/o para la comunidad de IMC UC.
 
-**Artículo 25:** Si una iniciativa es aprobada por el consejo
+**Artículo 24:** Los estudiantes representados pueden crear iniciativas propias o participar en iniciativas en curso.
 
-1) La directiva puede asignar a miembros o pedir ayuda a miembros del consejo para que ayuden en una actividad de la iniciativa.
-1) Presidencia puede asignar fondos a una iniciativa y el consejo debo aprobar el monto propuesto por presidencia
+**Artículo 25:** Las iniciativas estudiantiles pueden pedir apoyo mediante una carta entregada a un miembro del consejo o de la directiva, la persona que reciba esta carta debe agregar el tema a la tabla sobre apoyar a esa iniciativa.
+
+**Artículo 26:** El consejo votará si aprueba o rechaza la idea de apoyar la iniciativa estudiantil.
+
+**Artículo 27:** Para que una agrupación sea considerada una iniciativa estudiantil asociada al centro LICD, se debe explicitar en un documento presentado al centro LICD lo siguiente:
+
+1) Historia de la iniciativa: La iniciativa debe especificar cómo surge y su trayectoria.
+1) Misión de la iniciativa: Se entiende por misión de la iniciativa, la razón de ser de la iniciativa y el objetivo general de esta, explicitando y concretando qué es lo que hace.
+1) Visión de la iniciativa: Se entiende por visión de la iniciativa, la finalidad de la organización. Se relaciona con explicitar los valores y principios de la iniciativa, y a donde se desea llegar con esta.
+1) Actividades dirigidas a IMC UC.
+1) Rol social que cumple más su aporte a la comunidad de IMC y/o exteriores.
+1) Relación con el centro LICD, en específico, qué necesita del centro LICD. Algunos ejemplos son: espacios, difusión, lanzamientos, ventas, oficina de reuniones, actividades que realizan en ingeniería, entre otros.
+1) Persona(s) encargada(s) de la iniciativa. Se debe entregar al centro LICD la siguiente información sobre la persona encargada: nombre, apellido, correo uc, carrera y número de alumno.
+1) Organigrama de la iniciativa. Se debe mostrar la estructura general de la iniciativa, tomando en cuenta los diferentes cargos y su jerarquía, además se debe incluir una breve descripción de las funciones que cumple cada cargo dentro de la iniciativa.
 1) Las transferencias de dinero a una iniciativa:
    1) Si son rendidas o sea la iniciativa manda una boleta al encargado de hacienda, si el monto en total que se ha mandado en el tiempo no supera lo asignado, se transfiere
    1) Si no son rendidas, o sea no se tienen boleta antes de transferir y si el monto en total que se ha mandado en el tiempo no supera lo asignado entonces la transferencia debe ser aprobada por el consejo
 1) En caso que la iniciativa pida difusión, se puede realizar en las cuentas oficiales del centro de estudiantes
 
-Iniciativas estudiantiles: I. Finalidades, miembros, derechos y deberes de las iniciativas Art. 1. Se entiende por iniciativa estudiantil asociada al Centro de Alumnos de LICD como una agrupación de personas organizada, con un mismo fin desde y/o para la comunidad de IMC UC. Art. 2. Para que una agrupación sea considerada una iniciativa estudiantil asociada al Centro de Alumnos de Ingeniería debe explicitar mediante un documento presentado al centro LICD lo siguiente:
+**Artículo 28:** Los deberes de las iniciativas estudiantiles centro LICD son los siguientes:
 
-Historia de la iniciativa: La iniciativa debe especificar cómo surge y su trayectoria.
-Misión de la iniciativa: Se entiende por misión de la iniciativa, la razón de ser de la iniciativa y el objetivo general de esta, explicitando y concretando qué es lo que hace.
-Visión de la iniciativa: Se entiende por visión de la iniciativa, la finalidad de la organización. Se relaciona con explicitar los valores y principios de la iniciativa, y a donde se desea llegar con esta.
-Actividades dirigidas a ingeniería.
-Rol social que cumple más su aporte a la comunidad de ingeniería y/o exteriores.
-Relación con el centro LICD, en específico, que necesita del centro LICD. Algunos ejemplos son: espacios, difusión, lanzamientos, ventas, oficina de reuniones, actividades que realizan en ingeniería, entre otros.
-Persona(s) encargada(s) de la iniciativa. Se debe entregar al centro LICD la siguiente información sobre la persona encargada: nombre, apellido, correo uc, carrera y número de alumno.
-Organigrama de la iniciativa. Se debe mostrar la estructura general de la iniciativa, tomando en cuenta los diferentes cargos y su jerarquía, además se debe incluir una breve descripción de las funciones que cumple cada cargo dentro de la iniciativa. Art. 3. Los deberes de las iniciativas estudiantiles centro LICD son los siguientes:
-Hacia el Centro de Alumnos: Luego de ser aprobada como una iniciativa estudiantil centro LICD, esta debe dar a conocer al Centro de Alumnos una persona representante que debe asistir a las reuniones programadas por parte del centro LICD. En caso de cambio de la persona representante de la iniciativa estudiantil, la nueva persona representante debe comunicarse y darse a conocer ante el Centro de Alumnos.
-Hacia las personas voluntarias: Una iniciativa centro LICD debe entregar un ambiente grato y seguro para sus integrantes. Si esto no fuese así, en primera instancia la iniciativa debe manejar la situación. En caso de no ser resuelto, acudir al centro LICD como mediador entre la persona afectada y la iniciativa.
-Hacia la comunidad: Una iniciativa centro LICD debe velar por generar un beneficio social desde o para la comunidad de IMC UC.
-En caso de que alguna persona representante de la iniciativa estudiantil se vea sancionada en algún tipo de falta mayor a la ética ética, tal y como lo señala la dirección de pregrado (DiPre), esta debe dejar su cargo e informar al centro LICD. Art. 4. Las garantías de las iniciativas estudiantiles centro LICD son las siguientes:
-Derecho de admisión: Los proyectos se reservan el derecho de admitir o no nuevos integrantes mediante sus propios procesos y de expulsarlos en los casos contemplados por sus procesos internos, siempre y cuando estos procesos no interfieran con las normas y procedimientos de la universidad.
-Respeto a los procesos internos: Cada iniciativa centro LICD puede decidir su estructura interna, distribución y cantidad de cargos, además de su propio funcionamiento.
-Oficinas concursables: Toda iniciativa centro LICD tiene derecho a postular a las oficinas dispuestas por el centro LICD. (A medida que tengamos el edificio) II. Sobre el presupuesto participativo Solo las iniciativas reconocidas por el centro LICD pueden postular. Art. 5. El formulario tendrá los siguientes puntos a rellenar:
-Descripción general de la iniciativa o proyecto perteneciente a esta, que se desea financiar
-Descripción del problema que se busca resolver y la relevancia de este
-Línea de financiamiento
-Personas beneficiadas de forma directo e indirecto
-Descripción de acciones claves a realizar para el desarrollo adecuado de la iniciativa o proyecto
-Habilidades que desarrolla el equipo del proyecto o la iniciativa centro LICD.
-Espacio para que la iniciativa presente un pitch, argumentando por qué la iniciativa o proyecto merece participar en la votación para el presupuesto participativo. Art. 6. Durante la preselección, se evaluará el nivel de proyección e innovación de la iniciativa y esta deberá escoger cuatro (4) categorías de evaluación entre impacto en la comunidad, impacto en la sociedad, impacto en el ambiente, arte y cultura, bienestar de la comunidad, ciencia y tecnología. Todas las categorías poseen igual importancia a la hora de evaluar la iniciativa o su proyecto. Se considerará para la preselección que las iniciativas que hayan ganado primero o segundo durante tres años consecutivos, no podrán participar del proceso. Art. 7. La comisión que evaluará la preselección estará presidida por la Jefatura de Finanzas y la Jefatura de Iniciativas Estudiantiles como miembros del centro LICD, quienes deberán buscar a otras personas que pertenezcan a ex-Coordinaciones, la DRS, DAE o equipo docente de la escuela. Se sugiere incluir ex-directiva de iniciativas estudiantiles en caso de buscar personas para evaluar adicionales, estas no podrán evaluar su propia iniciativa. Esta comisión será la encargada de elaborar y difundir el “Reglamento de Iniciativas Estudiantiles”. III. Sobre la postulación a oficinas y bodega El centro LICD ofrece salas a repartir entre distintas iniciativas de estudiantes de IMC UC. Cabe recalcar que se deja abierta la posibilidad de que distintas iniciativas ocupen la misma oficina de manera compartida. Art. 8. El fin de las oficinas concursables es tener un espacio donde las iniciativas estudiantiles desarrollen actividades relacionadas a la iniciativa, es decir, no se podrá usar las oficinas únicamente para reuniones (para eso el centro de alumnos dispone de una sala de reuniones), ni tampoco como bodega (El centro de alumnos dispone de una bodega para ese fin). Todo el proceso se encontrará reglamentado en el “Reglamento de Postulación a Oficinas y Bodega” elaborado por el comité ejecutivo del presente año. Art. 9. La distribución y asignación de las oficinas disponibles por el Centro de alumnos de ingeniería, recaerá en una persona del comité ejecutivo del centro de alumnos (o jefatura de Iniciativas estudiantiles). Este proceso se llevará a cabo a inicios del primer semestre y no será apelable, sin embargo, queda a criterio de la persona encargada del comité ejecutivo del centro de alumnos (jefatura de Iniciativas estudiantiles), revocar el derecho a oficina de una iniciativa, en caso de incumplimiento reiterado de las normas, y re concursar esta (o parte de esta) en un nuevo proceso de postulación. Art. 10. Las oficinas son un espacio que pertenece al centro de alumnos y al IMC UC. Estas se entregan en usufructo a las iniciativas, por ende, deben velar por mantener el orden, higiene y otras reglas que se especifican en las bases de postulación a las oficinas concursables. Se podrán realizar modificaciones a la estructura, previa autorización por parte de una persona encargada del comité ejecutivo del centro de alumnos (o jefatura de iniciativas estudiantiles); y por último El centro LICD se reserva el derecho de exigir un nivel de convivencia en estos espacios. Art. 11. El mal uso de las oficinas, no mantener el orden u otras faltas, podrán ser notificadas de forma anónima a una persona encargada del comité ejecutivo del centro de alumnos (jefatura de iniciativas estudiantiles), quien deberá fiscalizar la veracidad de estas denuncias. De comprobarse la veracidad de estas denuncias, quedará registro de estas faltas, de manera que la persona encargada podrá revocar el derecho a oficina tal y como se señala en el artículo 9 o quedaran como antecedentes para la próxima postulación. Art. 12. El cuidado de la oficina es responsabilidad de cada Iniciativa o grupo de iniciativas. Ante eventual daño se podrá conversar con el centro LICD para resolver el problema. Sin embargo, si el daño fue producido a causa de mal uso, descuido, negligencia o por alguien que no pertenezca a la iniciativa, serán las personas encargadas de esta quienes deberán hacerse responsables económicamente, con previo aviso al centro LICD. Art. 13. Se ofrece también espacio en la bodega, el cual debe ser solicitado en la misma postulación que las oficinas, detallando según los requisitos; Las reglas y responsabilidades del uso de la bodega se especifican en las bases de la postulación a oficinas concursables y espacio en la bodega.
+1) Hacia el Centro de Alumnos: Luego de ser aprobada como una iniciativa estudiantil centro LICD, esta debe dar a conocer al Centro de Alumnos una persona representante que debe asistir a las reuniones programadas por parte del centro LICD. En caso de cambio de la persona representante de la iniciativa estudiantil, la nueva persona representante debe comunicarse y darse a conocer ante el Centro de Alumnos.
+1) Hacia las personas voluntarias: Una iniciativa centro LICD debe entregar un ambiente grato y seguro para sus integrantes. Si esto no fuese así, en primera instancia la iniciativa debe manejar la situación. En caso de no ser resuelto, acudir al centro LICD como mediador entre la persona afectada y la iniciativa.
+1) Hacia la comunidad: Una iniciativa centro LICD debe velar por generar un beneficio social desde o para la comunidad de IMC UC.
+1) En caso de que alguna persona representante de la iniciativa estudiantil se vea sancionada en algún tipo de falta mayor a la ética ética, tal y como lo señala la dirección de pregrado (DiPre), esta debe dejar su cargo e informar al centro LICD.
+
+**Artículo 29:** Las garantías de las iniciativas estudiantiles centro LICD son las siguientes:
+
+1) Derecho de admisión: Los proyectos se reservan el derecho de admitir o no nuevos integrantes mediante sus propios procesos y de expulsarlos en los casos contemplados por sus procesos internos, siempre y cuando estos procesos no interfieran con las normas y procedimientos de la universidad.
+1) Respeto a los procesos internos: Cada iniciativa centro LICD puede decidir su estructura interna, distribución y cantidad de cargos, además de su propio funcionamiento.
+1) (Punto a discutir) Oficinas concursables: Toda iniciativa centro LICD tiene derecho a postular a las oficinas dispuestas por el centro LICD. (A medida que tengamos el edificio, disposicion espacial y recursos.)
+
+**Artículo 30:** Si una iniciativa es aprobada por el consejo
+
+1) La directiva puede asignar a miembros o pedir ayuda a miembros del consejo para que ayuden en una actividad de la iniciativa.
+1) Presidencia puede asignar fondos a una iniciativa y el consejo debe aprobar el monto propuesto por presidencia
+1) Las transferencias de dinero a una iniciativa respectivas al artículo 27 inciso 10.
+
+II. Sobre el presupuesto participativo
+
+**Artículo 31:** Solo las iniciativas reconocidas por el centro LICD pueden postular a un presupuesto participativo
+
+**Artículo 32:** El formulario de postulación tendrá los siguientes puntos a rellenar:
+
+1) Descripción general de la iniciativa o proyecto perteneciente a esta, que se desea financiar.
+1) Descripción del problema que se busca resolver y la relevancia de este
+1) Línea de financiamiento
+1) Personas beneficiadas de forma directo e indirecto
+1) Descripción de acciones claves a realizar para el desarrollo adecuado de la iniciativa o proyecto
+1) Habilidades que desarrolla el equipo del proyecto o la iniciativa centro LICD.
+1) Espacio para que la iniciativa presente un pitch, argumentando por qué la iniciativa o proyecto merece participar en la votación para el presupuesto participativo.
+
+**Artículo 33:** Durante la preselección, se evaluará el nivel de proyección e innovación de la iniciativa y esta deberá escoger cuatro (4) categorías de evaluación entre impacto en la comunidad, impacto en la sociedad, impacto en el ambiente, arte y cultura, bienestar de la comunidad, ciencia y tecnología. Todas las categorías poseen igual importancia a la hora de evaluar la iniciativa o su proyecto. (Punto a discutir) Se considerará para la preselección que las iniciativas que hayan ganado primero o segundo durante tres años consecutivos, no podrán participar del proceso.
+
+**Artículo 34:** La comisión que evaluará la preselección estará presidida por la Jefatura de Finanzas y la Jefatura de Iniciativas Estudiantiles como miembros del centro LICD. Esta comisión será la encargada de elaborar y difundir el “Reglamento de Iniciativas Estudiantiles”.
+
 
 ### Iniciativas políticas
-**Artículo 25:** Con 5 representados se puede proponer un tema a la tabla del consejo, la petición debe ser entragada al secretario de la directiva
+**Artículo 35:** Con 5 representados se puede proponer un tema a la tabla del consejo, la petición debe ser entragada al secretario de la directiva
 
-**Artículo 26:** Con un grupo de 5 representados se puede proponer a la consejería superior hacer una ayudantía para algún ramo, a la cual pueden asistir personas de cualquier carrera
+**Artículo 36:** Con un grupo de 5 representados se puede proponer a la consejería superior hacer una ayudantía para algún ramo, a la cual pueden asistir personas de cualquier carrera
 
-**Artículo 27:** Con un grupo de 8 representantes se puede convocar una sesión del consejo para hablar de solo un solo tema en específico.
+**Artículo 37:** Con un grupo de 8 representantes se puede convocar una sesión del consejo para hablar de solo un solo tema en específico.
 
-**Artículo 28:** Con 12 representados se puede obligar a la directiva a organizar un proyecto
+**Artículo 38:** Con 12 representados se puede obligar a la directiva a organizar un proyecto
 
 ## **Capítulo : Sobre las Reformas**
 
-**Artículo:** Tipos de reforma 
+**Artículo 39:** Tipos de reforma 
    1) Estructural; inclusión y eliminación de artículos. 
    1) Gramatical; modificación a la redacción de los estatutos existentes.
 
-**Artículo:** Quienes pueden proponer reformas 
+**Artículo 40:** Quienes pueden proponer reformas 
    1) Dos tercios del Consejo de Delegados; conformado por todos los Delegados generacionales y la directiva del Centro de Estudiantes de Ciencias de Datos,
    1) 20% de los estudiantes de la facultad,
    presentando dicha petición en las instancias de asamblea normal o extraordinaria.
 
-**Artículo:** Toda proposición de reforma estatutaria deberá presentarse por escrito y estar contenida en un proyecto articulado, acompañado de un argumento que justifique la solicitud de la reforma.
+**Artículo 41:** Toda proposición de reforma estatutaria deberá presentarse por escrito y estar contenida en un proyecto articulado, acompañado de un argumento que justifique la solicitud de la reforma.
 
-**Artículo:** La propuesta de reforma deberá ser presentada a una comisión creada en asamblea compuesta por : 
+**Artículo 42:** La propuesta de reforma deberá ser presentada a una comisión creada en asamblea compuesta por : 
    1) Dos delegados generacionales electos por sorteo
    1) Tres estudiantes de la carrera electos por sorteo  
    1) Un representante de la Directiva quien la preside 
 
-**Artículo:** Dicha comisión analizará los alcances y realizará el estudio técnico de la propuesta. Además realizará una aprobación interna de la reforma, que requerirá el voto favorable de la mitad de los integrantes para que esta sea presentada oficialmente y se lleve a plebiscito. 
+**Artículo 43:** Dicha comisión analizará los alcances y realizará el estudio técnico de la propuesta. Además realizará una aprobación interna de la reforma, que requerirá el voto favorable de la mitad de los integrantes para que esta sea presentada oficialmente y se lleve a plebiscito. 
 abierto.
 
-**Artículo:** Si una reforma genera una incompatibilidad con los estatutos vigentes, esta en su presentación deberá contener artículos transitorios que establezcan soluciones a las incompatibilidades existentes. La vigencia de estos es de máximo un año sin posibilidad de extensión. Terminado este periodo son eliminados automáticamente de los estatutos vigentes.
+**Artículo 44:** Si una reforma genera una incompatibilidad con los estatutos vigentes, esta en su presentación deberá contener artículos transitorios que establezcan soluciones a las incompatibilidades existentes. La vigencia de estos es de máximo un año sin posibilidad de extensión. Terminado este periodo son eliminados automáticamente de los estatutos vigentes.
 
-**Artículo:** La aprobación del proyecto de reforma en plebiscito  La aprobación del Proyecto de Reforma requerirá el voto favorable de la mayoría simple de los alumnos regulares de la licenciatura en Ingeniería en Ciencias de Datos.
+**Artículo 45:** La aprobación del proyecto de reforma en plebiscito  La aprobación del Proyecto de Reforma requerirá el voto favorable de la mayoría simple de los alumnos regulares de la licenciatura en Ingeniería en Ciencias de Datos.
 
-**Artículo:** Toda reforma aprobada entrará en vigencia en un plazo de dos semanas desde las votaciones. En las cuales, se debe publicar el nuevo estatuto con la inclusión de la reforma y se debe guardar una copia física en las oficinas de la facultad.
+**Artículo 46:** Toda reforma aprobada entrará en vigencia en un plazo de dos semanas desde las votaciones. En las cuales, se debe publicar el nuevo estatuto con la inclusión de la reforma y se debe guardar una copia física en las oficinas de la facultad.
 
 ## **Capítulo : Sobre los medios de comunicación**
 
-**Artículo:** Los medios oficiales de comunicación con la comunidad, deben ser establecidos por la directiva vigente; considerando obligatoriamente el correo institucional. En estos se difundirá toda la información que se quiera y deba hacer llegar a les integrantes de la facultad. Incluyéndose :
+**Artículo 47:** Los medios oficiales de comunicación con la comunidad, deben ser establecidos por la directiva vigente; considerando obligatoriamente el correo institucional. En estos se difundirá toda la información que se quiera y deba hacer llegar a les integrantes de la facultad. Incluyéndose :
    1) Integrantes de la directiva vigente y medios de comunicación oficiales a utilizar
    1) Llamados a Asambleas normales y extraordinarias, con la posterior publicación del acta respectiva de la sesión.
    1) Informaciónes relativas a las votaciones de la directiva, listas postulantes y fechas de los procesos.
@@ -258,12 +283,12 @@ abierto.
 
 ## **Capítulo : Sobre el Tribunal Calificador de Elecciones**
 
-**Artículo:** El Tribunal Calificador de Elecciones, en adelante TRICEL, será el organismo encargado de implementar y supervisar todo proceso eleccionario o de sufragio universal a nivel de **CAi**. Se regirá por un Apartado propio denominado “Reglamento TRICEL”, en el cual se especifican sus funciones y atribuciones durante los sufragios. El TRICEL tendrá carácter temporal, cumpliendo sus funciones sólo respecto del proceso eleccionario para el cual se constituye. Se conformará en el siguiente momento: 
+**Artículo 48:** El Tribunal Calificador de Elecciones, en adelante TRICEL, será el organismo encargado de implementar y supervisar todo proceso eleccionario o de sufragio universal a nivel de **CAi**. Se regirá por un Apartado propio denominado “Reglamento TRICEL”, en el cual se especifican sus funciones y atribuciones durante los sufragios. El TRICEL tendrá carácter temporal, cumpliendo sus funciones sólo respecto del proceso eleccionario para el cual se constituye. Se conformará en el siguiente momento: 
 
    1) En el caso de elecciones de representantes del CAi, el tres días hábiles antes que comience el periodo de inscripción de candidatos. 
    2) Para cualquier otro tipo de plebiscito, consulta directa o sufragio universal, lo hará en la misma sesión en que éste se convoque.
     
-**Artículo:** Las funciones del TRICEL son:
+**Artículo 49:** Las funciones del TRICEL son:
    
    1) Velar por el cumplimiento de las normas estatutarias y reglamentarias en el respectivo proceso eleccionario. Deberá discutir y aplicar su criterio para discutir ante disyuntivas que puedan existir. 
    2) Conocer de cualquier asunto relacionado con la elección para la cual se constituye. 
@@ -274,7 +299,7 @@ abierto.
    7) Emitir resoluciones frente a los casos o reclamos presentados para su fallo y conocimiento, previa deliberación de sus miembros. Las resoluciones serán apelables por vía de consideración ante el Tribunal. 
    8) Calificar la elección dando su dictamen respecto de la legitimidad o nulidad parcial o total del acto. 
 
-**Artículo:** El TRICEL estará compuesto por los siguientes miembros:
+**Artículo 50:** El TRICEL estará compuesto por los siguientes miembros:
    1) Cualquier miembro del Comité Ejecutivo, el cual será electo de la forma en que este lo estime conveniente. Dicho miembro presidirá el Tribunal.
    2) *Dos representantes generacionales y dos representantes académicos escogidos por los representantes de sus respectivos Consejos en una sola votación.*
    3) Los apoderados de las listas postulantes al Comité Ejecutivo si corresponde. Ellos deberán ser alumnos regulares. El cargo de integrante del TRICEL es incompatible con el de candidatura a una elección para la cual se constituye el Tribunal. 
