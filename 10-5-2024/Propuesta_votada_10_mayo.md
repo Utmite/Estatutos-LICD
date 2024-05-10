@@ -142,3 +142,11 @@ La lista que se presente puede tener cargos extra, siempre y cuando tengan algui
 1. propuestas por el representante de presidencia de la directiva; 
 1. propuestas por algún representante generacional
 
+**Artículo 16:** Corresponde al acta
+
+1) Dejar en claro quiénes asistieron
+1) Dejar en claro que se habló
+1) Dejar en claro que se votó
+1) Dejar en claro quién votó por cada opción
+1) El acta estará en Github en un archivo markdown llamado acta general, la cual contendrá el registro de todas las reuniones llevadas a cabo desde la entrada en funcionamiento del estatuto, la última sesión debe ser la primera que aparece en el acta general
+
