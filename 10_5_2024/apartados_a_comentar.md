@@ -71,6 +71,9 @@ Sistema de Reporte: Se establecerá un sistema accesible para que los miembros d
 Proceso de Resolución: Los conflictos serán tratados de manera justa y confidencial, buscando siempre una resolución que promueva la reintegración y el respeto mutuo.
 Este protocolo busca ser un documento vivo que se ajuste a las necesidades cambiantes de nuestra comunidad, asegurando un entorno inclusivo y respetuoso para todos sus miembros.
 
+
+______
+
 Tribunal Calificar de Elecciones · TRICEL
 Reglamento TRICEL centro LICD
 El presente reglamento tiene como misión establecer el fin, las responsabilidades, la conformación y las decisiones que puede tomar el Tribunal Calificador de Elecciones del Centro de Alumnos de Ingeniería de la Pontificia Universidad Católica de Chile.
