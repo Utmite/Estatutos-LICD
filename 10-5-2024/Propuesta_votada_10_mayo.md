@@ -172,4 +172,3 @@ La lista que se presente puede tener cargos extra, siempre y cuando tengan algui
 
 1) Ayudar al consejero académico
 
-**Artículo 21:** La consejería académica tienen la obligación de lograr que la soluciones de las interrogaciones, exámenes, talleres y tareas sean públicas, y posteriormente guardarlas en una la carpeta en la nube (OneDrive) o crear una página web para permitir el acceso u otro medio.
