@@ -87,3 +87,6 @@ La lista que se presente puede tener cargos extra, siempre y cuando tengan algui
 1. Montos transferimos a iniciativas estudiantiles y que tipo de transferencia fue (rendida o no rendida)
 1. Planes futuros de la directiva
 1. Cualquier cosa que se encuentre relevante
+
+
+**Artículo 10:** Cada informe de transparencia debe quedar disponible en GitHub en la carpeta transparencia con el siguiente código Informe-Transparencia-{año}-{mes}  
