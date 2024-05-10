@@ -68,3 +68,9 @@ La lista que se presente puede tener cargos extra, siempre y cuando tengan algui
 1) Dejar en un lugar público las comisiones creadas, con su: misión, jefaturas y miembros
 1) Lo que asigne presidencia
 
+**Artículo 7:** Corresponde a Hacienda
+
+1) Administrar y llevar una cuenta de todos los gastos e ingresos del centro de estudiantes, siempre debidamente justificadas (los gastos siempre deben estar con boleta en caso contrario es una total ruptura del estatuto), el registro debe estar a los más tardar tras 7 días hábiles en GitHub, en el excel financiero del centro de estudiantes, el cual contiene los gastos e ingresos desde la entrada en vigor del estatuto
+1) Dar información si es solicitada por alguna persona de las representadas, en el tema de finanzas, según lo dispuesto en el apartado de transparencia 
+1) Obligación de dar el control del dinero al nuevo encargado de hacienda
+
