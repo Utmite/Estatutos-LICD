@@ -161,3 +161,10 @@ La lista que se presente puede tener cargos extra, siempre y cuando tengan algui
 1) Organizar eventos de carácter académico
 1) Difusión en medios oficiales con todo lo que respecte a lo académico
 
+**Artículo 19:** Del consejero académico
+
+1) Participar en el consejo
+1) Representar a los estudiantes en temas académicos frente a la universidad
+1) En caso que la universidad tenga un cargo estudiantil en un consejo y sea de carácter académico, el consejero será el encargado de ese cargo
+1) Designar a alguien que vaya en representación a un evento académico de la universidad (se recomienda al subconsejero, sin embargo si y solo debe ser de la consejería académica o del consejo)
+
