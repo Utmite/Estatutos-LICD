@@ -152,3 +152,12 @@ La lista que se presente puede tener cargos extra, siempre y cuando tengan algui
 
 **Artículo 17:** La decisión de paro siempre será mediante plebiscito 
 
+## Consejería Académica
+**Artículo 18:** Atribuciones de la Consejería Académica
+
+1) Colaborar con la directiva en el trabajo de eventos académicos
+1) Velar por lo que los estudiantes estén en proceso de permanencia
+1) Representar a los estudiantes en el orden académico
+1) Organizar eventos de carácter académico
+1) Difusión en medios oficiales con todo lo que respecte a lo académico
+
