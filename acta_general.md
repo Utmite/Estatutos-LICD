@@ -22,7 +22,7 @@ Temas Tratados:
 Conclusiones:  
 
 - Se continuará la votación de los artículos restantes en la siguiente sesión. 
-- Aquellos temas extraordinarios a los establecidos, entendiéndoseles como modificaciones, adiciones o complementos a la propuesta, se deben mantener en un archivo distinto del borrador de los Estatutos originales. Con fin de mantener un orden y priorizar los objetivos de la sesión 
+- Aquellos temas extraordinarios a los establecidos, entendiéndoseles como modificaciones, adiciones o complementos a la propuesta, se deben mantener en un archivo distinto del borrador de los Estatutos originales. Con fin de mantener un orden y priorizar los objetivos de la sesión. El nombre del archivo es apartados_a_comentar.md y se encuentra en la carpeta "10_5_24".
 
 Acta hecha por francisca yepsen
 
