@@ -54,3 +54,11 @@ La lista que se presente puede tener cargos extra, siempre y cuando tengan algui
 1) Convocar a sesiones extraordinarias del consejo
 1) Asignar un vocero para una actividad en donde no pueda asistir
 
+**Artículo 4:** Corresponde a vicepresidencia interna
+
+1) Lo que le asigne presidencia
+
+**Artículo 5:**  Corresponde a vicepresidencia externa
+
+1) Lo que asigne presidencia
+
