@@ -168,3 +168,6 @@ La lista que se presente puede tener cargos extra, siempre y cuando tengan algui
 1) En caso que la universidad tenga un cargo estudiantil en un consejo y sea de carácter académico, el consejero será el encargado de ese cargo
 1) Designar a alguien que vaya en representación a un evento académico de la universidad (se recomienda al subconsejero, sin embargo si y solo debe ser de la consejería académica o del consejo)
 
+**Artículo 20:** Del subconsejero académico
+
+1) Ayudar al consejero académico
