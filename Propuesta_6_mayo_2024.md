@@ -1,174 +1,4 @@
 
-## **Principios Generales**
-**Artículo 0:**
-
-1. El centro de estudiantes se basa en los principios de:
-   1. Democracia
-   1. Transparencia
-   1. Probidad
-   1. Responsabilidad
-1. Entiéndase como generación
-
-|Generación|Integrantes |
-| :- | :- |
-|Año actual|Personas que entraron ese año|
-|Año anterior |Personas que entraron ese año|
-|Año anterior anterior |Personas que entraron ese año|
-|Año anterior anterior anterior |Personas que entraron ese año o más atrás |
-
-1. Entiéndase como Github, un repositorio totalmente público en Github.com
-1. Entiéndase como més académico todo meses en donde al menos haya dos semanas de clases, excluyendo los meses de TAV
-1. Este estatuto debe estar en el GitHub
-1. La selección al azar se hace a través de <https://echaloasuerte.com/number>, en donde se sacan números desde el 1 al 100, cada persona saca un número, la persona con el mayor número, es la seleccionada
-##
-## Poder ejecutivo
-### Directiva
-**Artículo 1:** La directiva es el órgano ejecutivo y autónomo del centro de estudiantes, estará compuesta como mínimo por lo siguientes cargos:
-
-1) Presidencia o conocido como Panda Superior
-1) Vicepresidencia interna
-1) Vicepresidencia externa
-1) Secretaría o conocido como Panda SQL
-1) Hacienda o conocido como Panda Excel
-
-La lista que se presente puede tener cargos extra, siempre y cuando tengan alguien asignado
-
-**Artículo 2:** Corresponde a la directiva
-
-1) Ejecutar los proyectos, los cuales pueden tener ayuda de miembros del consejo
-1) Crear comisiones para realizar los proyectos en los cuales pueden estar personas de la directiva, consejo o representados
-1) Representar a los representados ante la universidad o cualquier instancia participativa
-1) Apoyar a iniciativas estudiantiles
-1) Apoyar a la consejería académica
-1) Obligación total de realizar los informes de transparencia
-
-**Artículo 3:** Corresponde a la Presidencia
-
-1) Representar la postura del centro de estudiantes ante las autoridades de la universidad, federación u otros organismos (Se entiende como postura del centro de estudiantes la que se adopte en el consejo).
-1) Asignación de presupuesto a los proyectos o iniciativas estudiantiles
-1) Dar cuenta pública de la gestión al término de su gestión al finalizar su mandato, mediante los medios de difusión del centro de estudiantes
-1) Crear comisiones y definir su jefatura la cual se encarga de definir la división de las tareas entre los miembros de la comisión.
-1) Asignar tareas entre los miembros de la directiva
-1) Convocar a sesiones extraordinarias del consejo
-1) Asignar un vocero para una actividad en donde no pueda asistir
-
-**Artículo 4:** Corresponde a vicepresidencia interna
-
-1) Lo que le asigne presidencia
-
-**Artículo 5:**  Corresponde a vicepresidencia externa
-
-1) Lo que asigne presidencia
-
-**Artículo 6:** Corresponde a Secretaria
-
-1) Realizar los informes de transparencia (En caso de no complir es una total ruptura de los estatutos)
-1) Dejar en un lugar público las comisiones creadas, con su: misión, jefaturas y miembros
-1) Lo que asigne presidencia
-
-**Artículo 7:** Corresponde a Hacienda
-
-1) Administrar y llevar una cuenta de todos los gastos e ingresos del centro de estudiantes, siempre debidamente justificadas (los gastos siempre deben estar con boleta en caso contrario es una total ruptura del estatuto), el registro debe estar a los más tardar tras 7 días hábiles en GitHub, en el excel financiero del centro de estudiantes, el cual contiene los gastos e ingresos desde la entrada en vigor del estatuto
-1) Dar información si es solicitada por alguna persona de las representadas, en el tema de finanzas, según lo dispuesto en el apartado de transparencia 
-1) Obligación de dar el control del dinero al nuevo encargado de hacienda
-
-**Artículo 8:** Corresponde a cargos opcionales, las facultades designadas por presidencia
-### Transparencia
-**Artículo 9:** Cada mes académico debe ser publicado un informe de transparencia, en la última semana de ese mes, con todo lo realizado por la directiva con lo siguiente:
-
-1. Integrantes directiva - año mes informe
-1. Reuniones que se tuvieron (con quien, y que se habló)
-1. Que trabajos se realizaron (Avances proyectos, Avances en comisiones, etc)
-1. Quienes aportaron en los trabajos
-1. Gastos e ingresos del centro de estudiantes
-1. Montos transferimos a iniciativas estudiantiles y que tipo de transferencia fue (rendida o no rendida)
-1. Planes futuros de la directiva
-1. Cualquier cosa que se encuentre relevante
-
-**Artículo 10:** Cada informe de transparencia debe quedar disponible en GitHub en la carpeta transparencia con el siguiente código Informe-Transparencia-{año}-{mes}  
-
-**Artículo 11:** Los representados o el mismo consejo pueden pedir información a la directiva, en caso de ser algún representado la información debe ser entregada como máximo en 7 días hábiles, en el caso del consejo es este el que fija el plazo (no menor a 12 horas), en caso de no fijarlo es de 7 días hábiles máximos
-
-## Poder legislativo
-### Composición y funciones
-**Artículo 11:** El consejo de representantes o simplemente consejo es el órgano legislativo del centro de estudiantes, estará compuesto por 2 (dos) representantes por cada generación (con derecho a voto), el representante de la consejería académica (con derecho a voto) y un representante de la directiva (con derecho a voto)
-
-**Artículo 12:** Corresponde a los representantes generacionales
-
-1) Representar políticamente a su generación
-1) Velar por el buen desempeño académico, viendo si hay necesidad pedir ayuda a la consejería académica
-1) Ayudar en iniciativas estudiantiles o proyectos de la directiva
-1) Pedir información a la directiva
-1) Proponer temas para discutir en el consejo
-
-**Artículo 13:** Son facultades del consejo 
-
-1) Fiscalizar a la directiva en el orden financiero, de realización de proyectos u otro tema
-1) Obtener cualquier información de las acciones llevadas por la directiva
-1) Definir la opinión del centro de estudiantes respecto a cualquier tema (mediante votación en el consejo o llamar plebiscito)
-1) Someter un tema a plebiscito
-1) Velar por el cumplimiento del estatuto
-1) Aprobar el apoyo a iniciativas estudiantiles
-1) Retirar el apoyo a una iniciativa estudiantil
-1) Obligar a la directiva a realizar un proyecto
-1) Aprobar cuanto dinero es asignado a una iniciativa estudiantil, monto propuesto por presidencia
-### Funcionamiento del consejo
-**Artículo 14:** El consejo funcionará de la siguiente manera
-
-1) Al menos una vez cada mes académico debe sesionar. 
-1) La fecha a realizar una sesión ordinaria será definida por los que integrantes con derecho a voto del consejo y presidencia
-1) Una sesión extraordinaria puede ser convocada por un tercio de los integrantes con derecho a voto o por presidencia y debe ser llevada en las próximas 24 horas
-1) Debe existir un acta
-1) El encargo de presidir consejo será definido de forma al azar de los integrantes de la sesión, excluyendo al representante de presidencia, esta persona debe mantener el respeto y gestionar el uso de la palabra durante la sesión
-1) El encargado del acta será definido de forma al azar, excluyendo al representante de presidencia de la directiva y al encargado de presidir el consejo
-1) Cada consejo sea ordinario o extraordinario debe tener una tabla de los temas a discutir
-1) Para llevar a cabo un consejo ordinario se necesita 50% de los integrantes con derecho a voto y un representante de la directiva
-1) Para llevar a cabo un consejo extraordinario se necesita un 30% de integrantes con derecho a voto y un representante de directiva
-1) Cuando se realice una votación, cada persona con derecho a voto tiene un solo voto, se hará a mano alzada y debe quedar registro en el acta, de cómo votó cada integrante
-1) La opción con mayoría de votos es la que sale aprobada, en caso de empate, decide el representante de presidencia
-
-**Artículo 15:**  Corresponde a la tabla de temas del consejo:
-
-1) La directiva puede proponer temas
-1) Los representantes generacionales o el representante académico puede proponer temas
-1) Los representados pueden proponer temas en la tabla (Ver Poder Civil)
-1) Las prioridades de los temas propuestos en la tabla son: 
-1. propuestas por estudiantes; 
-1. propuestas por el representante de la consejería académica
-1. propuestas por el representante de presidencia de la directiva; 
-1. propuestas por algún representante generacional
-
-**Artículo 16:** Corresponde al acta
-
-1) Dejar en claro quiénes asistieron
-1) Dejar en claro que se habló
-1) Dejar en claro que se votó
-1) Dejar en claro quién votó por cada opción
-1) El acta estará en Github en un archivo markdown llamado acta general, la cual contendrá el registro de todas las reuniones llevadas a cabo desde la entrada en funcionamiento del estatuto, la última sesión debe ser la primera que aparece en el acta general
-
-**Artículo 17:** La decisión de paro siempre será mediante plebiscito 
-
-## Consejería Académica
-**Artículo 18:** Atribuciones de la Consejería Académica
-
-1) Colaborar con la directiva en el trabajo de eventos académicos
-1) Velar por lo que los estudiantes estén en proceso de permanencia
-1) Representar a los estudiantes en el orden académico
-1) Organizar eventos de carácter académico
-1) Difusión en medios oficiales con todo lo que respecte a lo académico
-
-**Artículo 19:** Del consejero académico
-
-1) Participar en el consejo
-1) Representar a los estudiantes en temas académicos frente a la universidad
-1) En caso que la universidad tenga un cargo estudiantil en un consejo y sea de carácter académico, el consejero será el encargado de ese cargo
-1) Designar a alguien que vaya en representación a un evento académico de la universidad (se recomienda al subconsejero, sin embargo si y solo debe ser de la consejería académica o del consejo)
-
-**Artículo 20:** Del subconsejero académico
-
-1) Ayudar al consejero académico
-
-**Artículo 21:** La consejería académica tienen la obligación de lograr que la soluciones de las interrogaciones, exámenes, talleres y tareas sean públicas, y posteriormente guardarlas en una la carpeta en la nube (OneDrive) o crear una página web para permitir el acceso u otro medio.
 ## Poder civil
 ### Iniciativas estudiantiles
 **Artículo 22:** Los estudiantes representados pueden crear iniciativas propias o participar en iniciativas
@@ -185,6 +15,32 @@ La lista que se presente puede tener cargos extra, siempre y cuando tengan algui
    1) Si son rendidas o sea la iniciativa manda una boleta al encargado de hacienda, si el monto en total que se ha mandado en el tiempo no supera lo asignado, se transfiere
    1) Si no son rendidas, o sea no se tienen boleta antes de transferir y si el monto en total que se ha mandado en el tiempo no supera lo asignado entonces la transferencia debe ser aprobada por el consejo
 1) En caso que la iniciativa pida difusión, se puede realizar en las cuentas oficiales del centro de estudiantes
+
+Iniciativas estudiantiles: I. Finalidades, miembros, derechos y deberes de las iniciativas Art. 1. Se entiende por iniciativa estudiantil asociada al Centro de Alumnos de LICD como una agrupación de personas organizada, con un mismo fin desde y/o para la comunidad de IMC UC. Art. 2. Para que una agrupación sea considerada una iniciativa estudiantil asociada al Centro de Alumnos de Ingeniería debe explicitar mediante un documento presentado al centro LICD lo siguiente:
+
+Historia de la iniciativa: La iniciativa debe especificar cómo surge y su trayectoria.
+Misión de la iniciativa: Se entiende por misión de la iniciativa, la razón de ser de la iniciativa y el objetivo general de esta, explicitando y concretando qué es lo que hace.
+Visión de la iniciativa: Se entiende por visión de la iniciativa, la finalidad de la organización. Se relaciona con explicitar los valores y principios de la iniciativa, y a donde se desea llegar con esta.
+Actividades dirigidas a ingeniería.
+Rol social que cumple más su aporte a la comunidad de ingeniería y/o exteriores.
+Relación con el centro LICD, en específico, que necesita del centro LICD. Algunos ejemplos son: espacios, difusión, lanzamientos, ventas, oficina de reuniones, actividades que realizan en ingeniería, entre otros.
+Persona(s) encargada(s) de la iniciativa. Se debe entregar al centro LICD la siguiente información sobre la persona encargada: nombre, apellido, correo uc, carrera y número de alumno.
+Organigrama de la iniciativa. Se debe mostrar la estructura general de la iniciativa, tomando en cuenta los diferentes cargos y su jerarquía, además se debe incluir una breve descripción de las funciones que cumple cada cargo dentro de la iniciativa. Art. 3. Los deberes de las iniciativas estudiantiles centro LICD son los siguientes:
+Hacia el Centro de Alumnos: Luego de ser aprobada como una iniciativa estudiantil centro LICD, esta debe dar a conocer al Centro de Alumnos una persona representante que debe asistir a las reuniones programadas por parte del centro LICD. En caso de cambio de la persona representante de la iniciativa estudiantil, la nueva persona representante debe comunicarse y darse a conocer ante el Centro de Alumnos.
+Hacia las personas voluntarias: Una iniciativa centro LICD debe entregar un ambiente grato y seguro para sus integrantes. Si esto no fuese así, en primera instancia la iniciativa debe manejar la situación. En caso de no ser resuelto, acudir al centro LICD como mediador entre la persona afectada y la iniciativa.
+Hacia la comunidad: Una iniciativa centro LICD debe velar por generar un beneficio social desde o para la comunidad de IMC UC.
+En caso de que alguna persona representante de la iniciativa estudiantil se vea sancionada en algún tipo de falta mayor a la ética ética, tal y como lo señala la dirección de pregrado (DiPre), esta debe dejar su cargo e informar al centro LICD. Art. 4. Las garantías de las iniciativas estudiantiles centro LICD son las siguientes:
+Derecho de admisión: Los proyectos se reservan el derecho de admitir o no nuevos integrantes mediante sus propios procesos y de expulsarlos en los casos contemplados por sus procesos internos, siempre y cuando estos procesos no interfieran con las normas y procedimientos de la universidad.
+Respeto a los procesos internos: Cada iniciativa centro LICD puede decidir su estructura interna, distribución y cantidad de cargos, además de su propio funcionamiento.
+Oficinas concursables: Toda iniciativa centro LICD tiene derecho a postular a las oficinas dispuestas por el centro LICD. (A medida que tengamos el edificio) II. Sobre el presupuesto participativo Solo las iniciativas reconocidas por el centro LICD pueden postular. Art. 5. El formulario tendrá los siguientes puntos a rellenar:
+Descripción general de la iniciativa o proyecto perteneciente a esta, que se desea financiar
+Descripción del problema que se busca resolver y la relevancia de este
+Línea de financiamiento
+Personas beneficiadas de forma directo e indirecto
+Descripción de acciones claves a realizar para el desarrollo adecuado de la iniciativa o proyecto
+Habilidades que desarrolla el equipo del proyecto o la iniciativa centro LICD.
+Espacio para que la iniciativa presente un pitch, argumentando por qué la iniciativa o proyecto merece participar en la votación para el presupuesto participativo. Art. 6. Durante la preselección, se evaluará el nivel de proyección e innovación de la iniciativa y esta deberá escoger cuatro (4) categorías de evaluación entre impacto en la comunidad, impacto en la sociedad, impacto en el ambiente, arte y cultura, bienestar de la comunidad, ciencia y tecnología. Todas las categorías poseen igual importancia a la hora de evaluar la iniciativa o su proyecto. Se considerará para la preselección que las iniciativas que hayan ganado primero o segundo durante tres años consecutivos, no podrán participar del proceso. Art. 7. La comisión que evaluará la preselección estará presidida por la Jefatura de Finanzas y la Jefatura de Iniciativas Estudiantiles como miembros del centro LICD, quienes deberán buscar a otras personas que pertenezcan a ex-Coordinaciones, la DRS, DAE o equipo docente de la escuela. Se sugiere incluir ex-directiva de iniciativas estudiantiles en caso de buscar personas para evaluar adicionales, estas no podrán evaluar su propia iniciativa. Esta comisión será la encargada de elaborar y difundir el “Reglamento de Iniciativas Estudiantiles”. III. Sobre la postulación a oficinas y bodega El centro LICD ofrece salas a repartir entre distintas iniciativas de estudiantes de IMC UC. Cabe recalcar que se deja abierta la posibilidad de que distintas iniciativas ocupen la misma oficina de manera compartida. Art. 8. El fin de las oficinas concursables es tener un espacio donde las iniciativas estudiantiles desarrollen actividades relacionadas a la iniciativa, es decir, no se podrá usar las oficinas únicamente para reuniones (para eso el centro de alumnos dispone de una sala de reuniones), ni tampoco como bodega (El centro de alumnos dispone de una bodega para ese fin). Todo el proceso se encontrará reglamentado en el “Reglamento de Postulación a Oficinas y Bodega” elaborado por el comité ejecutivo del presente año. Art. 9. La distribución y asignación de las oficinas disponibles por el Centro de alumnos de ingeniería, recaerá en una persona del comité ejecutivo del centro de alumnos (o jefatura de Iniciativas estudiantiles). Este proceso se llevará a cabo a inicios del primer semestre y no será apelable, sin embargo, queda a criterio de la persona encargada del comité ejecutivo del centro de alumnos (jefatura de Iniciativas estudiantiles), revocar el derecho a oficina de una iniciativa, en caso de incumplimiento reiterado de las normas, y re concursar esta (o parte de esta) en un nuevo proceso de postulación. Art. 10. Las oficinas son un espacio que pertenece al centro de alumnos y al IMC UC. Estas se entregan en usufructo a las iniciativas, por ende, deben velar por mantener el orden, higiene y otras reglas que se especifican en las bases de postulación a las oficinas concursables. Se podrán realizar modificaciones a la estructura, previa autorización por parte de una persona encargada del comité ejecutivo del centro de alumnos (o jefatura de iniciativas estudiantiles); y por último El centro LICD se reserva el derecho de exigir un nivel de convivencia en estos espacios. Art. 11. El mal uso de las oficinas, no mantener el orden u otras faltas, podrán ser notificadas de forma anónima a una persona encargada del comité ejecutivo del centro de alumnos (jefatura de iniciativas estudiantiles), quien deberá fiscalizar la veracidad de estas denuncias. De comprobarse la veracidad de estas denuncias, quedará registro de estas faltas, de manera que la persona encargada podrá revocar el derecho a oficina tal y como se señala en el artículo 9 o quedaran como antecedentes para la próxima postulación. Art. 12. El cuidado de la oficina es responsabilidad de cada Iniciativa o grupo de iniciativas. Ante eventual daño se podrá conversar con el centro LICD para resolver el problema. Sin embargo, si el daño fue producido a causa de mal uso, descuido, negligencia o por alguien que no pertenezca a la iniciativa, serán las personas encargadas de esta quienes deberán hacerse responsables económicamente, con previo aviso al centro LICD. Art. 13. Se ofrece también espacio en la bodega, el cual debe ser solicitado en la misma postulación que las oficinas, detallando según los requisitos; Las reglas y responsabilidades del uso de la bodega se especifican en las bases de la postulación a oficinas concursables y espacio en la bodega.
+
 ### Iniciativas políticas
 **Artículo 25:** Con 5 representados se puede proponer un tema a la tabla del consejo, la petición debe ser entragada al secretario de la directiva
 
@@ -230,259 +86,177 @@ abierto.
    1) Se deben mantener publicados los estatutos vigentes de cada año.
 
 
-  Iniciativas estudiantiles
-Artículo 22: Los estudiantes representados pueden crear iniciativas propias o participar en iniciativas
-Artículo 23: Las iniciativas estudiantiles pueden pedir apoyo mediante una carta entregada a un miembro del consejo o de la directiva, la persona que reciba esta carta debe agregar el tema a la tabla sobre apoyar a esa iniciativa
-Artículo 24: El consejo votará si aprueba o rechaza la idea de apoyar la iniciativa estudiantil.
-Artículo 25: Si una iniciativa es aprobada por el consejo
-(a)	La directiva puede asignar a miembros o pedir ayuda a miembros del consejo para que ayuden en una actividad de la iniciativa.
-(b)	Presidencia puede asignar fondos a una iniciativa
-(c)	Las transferencias de dinero a una iniciativa:
-(i)	Si son rendidas o sea la iniciativa manda una boleta al encargado de hacienda, si el monto no supera lo asignado, se transfiere
-(ii)	Si no son rendidas, o sea no se tienen boleta antes de transferir, esta transferencia debe ser aprobada por el consejo
-(d)	En caso que la iniciativa pida difusión, se puede realizar en las cuentas oficiales del centro de estudiantes
-Iniciativas políticas
-Artículo 25: Con 5 representados se puede proponer un tema a la tabla del consejo, la petición debe ser entragada al secretario de la directiva
-Artículo 26: Con un grupo de 5 representados se puede proponer a la consejería superior hacer una ayudantía para algún ramo, a la cual pueden asistir personas de cualquier carrera
-Artículo 27: Con un grupo de 8 representantes se puede convocar una sesión del consejo para hablar de solo un solo tema en específico.
-Artículo 28: Con 12 representados se puede obligar a la directiva a organizar un proyecto
+## **Capítulo : Sobre el Tribunal Calificador de Elecciones**
 
+**Artículo:** El Tribunal Calificador de Elecciones, en adelante TRICEL, será el organismo encargado de implementar y supervisar todo proceso eleccionario o de sufragio universal a nivel de **CAi**. Se regirá por un Apartado propio denominado “Reglamento TRICEL”, en el cual se especifican sus funciones y atribuciones durante los sufragios. El TRICEL tendrá carácter temporal, cumpliendo sus funciones sólo respecto del proceso eleccionario para el cual se constituye. Se conformará en el siguiente momento: 
 
+   1) En el caso de elecciones de representantes del CAi, el tres días hábiles antes que comience el periodo de inscripción de candidatos. 
+   2) Para cualquier otro tipo de plebiscito, consulta directa o sufragio universal, lo hará en la misma sesión en que éste se convoque.
+    
+**Artículo:** Las funciones del TRICEL son:
+   
+   1) Velar por el cumplimiento de las normas estatutarias y reglamentarias en el respectivo proceso eleccionario. Deberá discutir y aplicar su criterio para discutir ante disyuntivas que puedan existir. 
+   2) Conocer de cualquier asunto relacionado con la elección para la cual se constituye. 
+   3) Complementar lo referente a la mecánica de votación y elección en forma de reglamento instructivo.
+   4) Determinar la lista de personas con derecho a voto de acuerdo a este estatuto
+   5) Distribuir el material necesario para la implementación del acto eleccionario y recoger el mismo, luego de realizado el acto. 
+   6) Atender e investigar los reclamos y observaciones presentados por cualquier integrante de la Escuela de Ingeniería con respecto a la elección. 
+   7) Emitir resoluciones frente a los casos o reclamos presentados para su fallo y conocimiento, previa deliberación de sus miembros. Las resoluciones serán apelables por vía de consideración ante el Tribunal. 
+   8) Calificar la elección dando su dictamen respecto de la legitimidad o nulidad parcial o total del acto. 
 
+**Artículo:** El TRICEL estará compuesto por los siguientes miembros:
+   1) Cualquier miembro del Comité Ejecutivo, el cual será electo de la forma en que este lo estime conveniente. Dicho miembro presidirá el Tribunal.
+   2) *Dos representantes generacionales y dos representantes académicos escogidos por los representantes de sus respectivos Consejos en una sola votación.*
+   3) Los apoderados de las listas postulantes al Comité Ejecutivo si corresponde. Ellos deberán ser alumnos regulares. El cargo de integrante del TRICEL es incompatible con el de candidatura a una elección para la cual se constituye el Tribunal. 
+   4) *Para la elección de Comité Ejecutivo y Consejerías, un docente de la Escuela.*
 
-Iniciativas estudiantiles:
-I. Finalidades, miembros, derechos y deberes de las iniciativas
-Art. 1. Se entiende por iniciativa estudiantil asociada al Centro de Alumnos de LICD como una agrupación de personas organizada, con un mismo fin desde y/o para la comunidad de IMC UC.
-Art. 2. Para que una agrupación sea considerada una iniciativa estudiantil asociada al Centro de Alumnos de Ingeniería debe explicitar mediante un documento presentado al centro LICD lo siguiente:
-1.	Historia de la iniciativa: La iniciativa debe especificar cómo surge y su trayectoria.
-2.	Misión de la iniciativa: Se entiende por misión de la iniciativa, la razón de ser de la iniciativa y el objetivo general de esta, explicitando y concretando qué es lo que hace.
-3.	Visión de la iniciativa: Se entiende por visión de la iniciativa, la finalidad de la organización. Se relaciona con explicitar los valores y principios de la iniciativa, y a donde se desea llegar con esta.
-4.	Actividades dirigidas a ingeniería.
-5.	Rol social que cumple más su aporte a la comunidad de ingeniería y/o exteriores.
-6.	Relación con el centro LICD, en específico, que necesita del centro LICD. Algunos ejemplos son: espacios, difusión, lanzamientos, ventas, oficina de reuniones, actividades que realizan en ingeniería, entre otros.
-7.	Persona(s) encargada(s) de la iniciativa. Se debe entregar al centro LICD la siguiente información sobre la persona encargada: nombre, apellido, correo uc, carrera y número de alumno.
-8.	Organigrama de la iniciativa. Se debe mostrar la estructura general de la iniciativa, tomando en cuenta los diferentes cargos y su jerarquía, además se debe incluir una breve descripción de las funciones que cumple cada cargo dentro de la iniciativa.
-Art. 3. Los deberes de las iniciativas estudiantiles centro LICD son los siguientes:
-1.	Hacia el Centro de Alumnos: Luego de ser aprobada como una iniciativa estudiantil centro LICD, esta debe dar a conocer al Centro de Alumnos una persona representante que debe asistir a las reuniones programadas por parte del centro LICD. En caso de cambio de la persona representante de la iniciativa estudiantil, la nueva persona representante debe comunicarse y darse a conocer ante el Centro de Alumnos.
-2.	Hacia las personas voluntarias: Una iniciativa centro LICD debe entregar un ambiente grato y seguro para sus integrantes. Si esto no fuese así, en primera instancia la iniciativa debe manejar la situación. En caso de no ser resuelto, acudir al centro LICD como mediador entre la persona afectada y la iniciativa.
-3.	Hacia la comunidad: Una iniciativa centro LICD debe velar por generar un beneficio social desde o para la comunidad de IMC UC.
-4.	En caso de que alguna persona representante de la iniciativa estudiantil se vea sancionada en algún tipo de falta mayor a la ética ética, tal y como lo señala la dirección de pregrado (DiPre), esta debe dejar su cargo e informar al centro LICD.
-Art. 4. Las garantías de las iniciativas estudiantiles centro LICD son las siguientes:
-1.	Derecho de admisión: Los proyectos se reservan el derecho de admitir o no nuevos integrantes mediante sus propios procesos y de expulsarlos en los casos contemplados por sus procesos internos, siempre y cuando estos procesos no interfieran con las normas y procedimientos de la universidad.
-2.	Respeto a los procesos internos: Cada iniciativa centro LICD puede decidir su estructura interna, distribución y cantidad de cargos, además de su propio funcionamiento.
-3.	Oficinas concursables: Toda iniciativa centro LICD tiene derecho a postular a las oficinas dispuestas por el centro LICD. (A medida que tengamos el edificio)
-II. Sobre el presupuesto participativo
-Solo las iniciativas reconocidas por el centro LICD pueden postular.
-Art. 5. El formulario tendrá los siguientes puntos a rellenar:
-1.	Descripción general de la iniciativa o proyecto perteneciente a esta, que se desea financiar
-2.	Descripción del problema que se busca resolver y la relevancia de este
-3.	Línea de financiamiento
-4.	Personas beneficiadas de forma directo e indirecto
-5.	Descripción de acciones claves a realizar para el desarrollo adecuado de la iniciativa o proyecto
-6.	Habilidades que desarrolla el equipo del proyecto o la iniciativa centro LICD.
-7.	Espacio para que la iniciativa presente un pitch, argumentando por qué la iniciativa o proyecto merece participar en la votación para el presupuesto participativo.
-Art. 6. Durante la preselección, se evaluará el nivel de proyección e innovación de la iniciativa y esta deberá escoger cuatro (4) categorías de evaluación entre impacto en la comunidad, impacto en la sociedad, impacto en el ambiente, arte y cultura, bienestar de la comunidad, ciencia y tecnología. Todas las categorías poseen igual importancia a la hora de evaluar la iniciativa o su proyecto. Se considerará para la preselección que las iniciativas que hayan ganado primero o segundo durante tres años consecutivos, no podrán participar del proceso.
-Art. 7. La comisión que evaluará la preselección estará presidida por la Jefatura de Finanzas y la Jefatura de Iniciativas Estudiantiles como miembros del centro LICD, quienes deberán buscar a otras personas que pertenezcan a ex-Coordinaciones, la DRS, DAE o equipo docente de la escuela. Se sugiere incluir ex-directiva de iniciativas estudiantiles en caso de buscar personas para evaluar adicionales, estas no podrán evaluar su propia iniciativa. Esta comisión será la encargada de elaborar y difundir el “Reglamento de Iniciativas Estudiantiles”.
-III. Sobre la postulación a oficinas y bodega
-El centro LICD ofrece salas a repartir entre distintas iniciativas de estudiantes de IMC UC. Cabe recalcar que se deja abierta la posibilidad de que distintas iniciativas ocupen la misma oficina de manera compartida.
-Art. 8. El fin de las oficinas concursables es tener un espacio donde las iniciativas estudiantiles desarrollen actividades relacionadas a la iniciativa, es decir, no se podrá usar las oficinas únicamente para reuniones (para eso el centro de alumnos dispone de una sala de reuniones), ni tampoco como bodega (El centro de alumnos dispone de una bodega para ese fin). Todo el proceso se encontrará reglamentado en el “Reglamento de Postulación a Oficinas y Bodega” elaborado por el comité ejecutivo del presente año.
-Art. 9. La distribución y asignación de las oficinas disponibles por el Centro de alumnos de ingeniería, recaerá en una persona del comité ejecutivo del centro de alumnos (o jefatura de Iniciativas estudiantiles). Este proceso se llevará a cabo a inicios del primer semestre y no será apelable, sin embargo, queda a criterio de la persona encargada del comité ejecutivo del centro de alumnos (jefatura de Iniciativas estudiantiles), revocar el derecho a oficina de una iniciativa, en caso de incumplimiento reiterado de las normas, y re concursar esta (o parte de esta) en un nuevo proceso de postulación.
-Art. 10. Las oficinas son un espacio que pertenece al centro de alumnos y al IMC UC. Estas se entregan en usufructo a las iniciativas, por ende, deben velar por mantener el orden, higiene y otras reglas que se especifican en las bases de postulación a las oficinas concursables. Se podrán realizar modificaciones a la estructura, previa autorización por parte de una persona encargada del comité ejecutivo del centro de alumnos (o jefatura de iniciativas estudiantiles); y por último El centro LICD se reserva el derecho de exigir un nivel de convivencia en estos espacios.
-Art. 11. El mal uso de las oficinas, no mantener el orden u otras faltas, podrán ser notificadas de forma anónima a una persona encargada del comité ejecutivo del centro de alumnos (jefatura de iniciativas estudiantiles), quien deberá fiscalizar la veracidad de estas denuncias. De comprobarse la veracidad de estas denuncias, quedará registro de estas faltas, de manera que la persona encargada podrá revocar el derecho a oficina tal y como se señala en el artículo 9 o quedaran como antecedentes para la próxima postulación.
-Art. 12. El cuidado de la oficina es responsabilidad de cada Iniciativa o grupo de iniciativas. Ante eventual daño se podrá conversar con el centro LICD para resolver el problema. Sin embargo, si el daño fue producido a causa de mal uso, descuido, negligencia o por alguien que no pertenezca a la iniciativa, serán las personas encargadas de esta quienes deberán hacerse responsables económicamente, con previo aviso al centro LICD.
-Art. 13. Se ofrece también espacio en la bodega, el cual debe ser solicitado en la misma postulación que las oficinas, detallando según los requisitos; Las reglas y responsabilidades del uso de la bodega se especifican en las bases de la postulación a oficinas concursables y espacio en la bodega.
+## **Capítulo : Elecciones, requisitos y sanciones**
+**Artículo:** Tendrán derecho a votar todos los estudiantes regulares de Pregrado del Instituto de Ingeniería Matemática Computacional, *así como los estudiantes de Magíster en Ingeniería, Magíster en Ciencias de la Ingeniería y Doctorado, salvo cuando este estatuto específicamente indique algo distinto. Tratándose de la elección del Comité Ejecutivo y Consejero Académico, tendrán derecho a voto los estudiantes de College de Licenciatura en Ciencias Naturales que tengan inscrito el major de la Escuela de Ingeniería a comienzos del segundo semestre.*
 
+**Artículo:** Todas las elecciones y plebiscitos son válidos solo si en ellos vota al menos el 35% de los alumnos con derecho a voto, salvo que en este estatuto se establezca explícitamente otra cosa. En caso de no cumplirse este quórum, le corresponderá decidir al Consejo que haya llamado a plebiscitar.
 
+**Artículo:** Las elecciones o plebiscitos se realizarán siempre a través de una votación universal, directa, secreta, libre e informada, de la siguiente manera: 
+   1) Puede ser tanto de manera presencial como electrónica. El encargado de decidir esto será el Consejo que haga el llamado en la misma sesión en que se inicie el proceso respectivo, según acuerdo de la mayoría absoluta de los votos posibles. En el caso de elecciones, esta sesión deberá ser el día que se cierre el proceso de inscripción. En el caso de plebiscitos, será la misma sesión en que se realice el llamado a éste.
+   2) Será responsabilidad del TRICEL organizar y salvaguardar la regularidad del proceso eleccionario o plebiscito, de acuerdo con lo estipulado en el artículo X del Reglamento TRICEL.
+   3) La cuenta de votos se realizará públicamente al final del último día de votación. *Por esto, la(s) urna(s) se guardará(n) en el CAi bajo llave*, en el lugar que estipule el TRICEL, bajo juramento de sus miembros de no hacer ni permitir manipulaciones de ningún tipo.
 
+**Artículo:** El Comité Ejecutivo, así como la Consejería Académica, durarán un año en sus funciones, pudiendo ser reelegidas si cumplieren con los requisitos. La votación de estos se realizará en una elección que se llevará a cabo de acuerdo con las siguientes normas:
+   1) *El primer día hábil de octubre se abrirán las inscripciones para las postulaciones. Se entenderá como postulante tanto las listas candidatas al Comité Ejecutivo, como las candidaturas a Consejería Académica y Consejería de Postgrado. La apertura de inscripciones deberá ser avisada públicamente con una semana de anticipación. Este proceso de inscripción durará 10 días hábiles, con una preinscripción obligatoria de las candidaturas al finalizar los primeros 5 días hábiles del proceso.*
+   2) Las fechas podrán ser trasladadas con un margen máximo de una semana, previa aprobación del Consejo Generacional bajo quórum calificado. 
+   3) Las listas candidatas al Comité Ejecutivo podrán presentarse como cerradas (con los cargos previamente asignados), o abiertas (que los cargos se determinen de acuerdo a la votación obtenida por cada miembro de la lista). En el caso de presentarse una lista abierta, las personas que la integran deberán cumplir con lo requerido por los artículos 24 (*Requisitos postulación Comité Ejecutivo*) y 25 de esta sección.
+   4) En caso de empate entre candidaturas de una lista abierta, la lista tendrá que confirmar el empate y entregarlo al CAi en ejercicio con un plazo máximo de 2 días hábiles posterior al fin del recuento de votos. 
+   5) No existe restricción con respecto al número máximo de postulantes a ninguna de las tres elecciones, siempre que todos cumplan con los requisitos estipulados en el presente estatuto. 
+   6) El número de personas inscritas en una lista debe corresponder, al menos, al número de cargos estatutarios del Comité Ejecutivo. De no cumplir esto, la lista no puede ser candidata al Centro de Alumnos. 
+   7) El proceso de preinscripción es obligatorio para todas las listas candidatas al Comité Ejecutivo, candidaturas a Consejería de Pregrado, el cual consiste en:
+      - A más tardar a las 18:00 del quinto día hábil de abierto el proceso, cada conjunto de postulantes debe entregar al Centro de Alumnos vigente una lista que contenga el nombre, programa de la Escuela al que pertenece, generación, promedios ponderados semestrales de los últimos tres semestres, promedio ponderado acumulado, mail UC y número de créditos aprobados de cada uno de cada posible integrante del Comité Ejecutivo, candidaturas a Consejería Académica y Consejería de Postgrado. Se debe especificar el cargo al que postula cada persona.
+      - El TRICEL tiene tres días hábiles, desde cerrado el proceso de preinscripción, para validar los requisitos de las candidaturas preinscritas. 
+      - Tanto el Comité Ejecutivo como las Consejerías deben ser postulantes que hayan aprobado el proceso de preinscripción. 
+      - Las listas no pueden ser publicadas, física ni electrónicamente, hasta la validación de la preinscripción por parte del TRICEL.
 
+8) Para inscribirse, se deberá entregar al Centro de Alumnos vigente, a más tardar al décimo día hábil de abierto el proceso a las 18:00 horas, lo siguiente:
 
+   - Para Comité Ejecutivo:
+      * La lista definitiva de postulantes, quienes deben haber aprobado el proceso de preinscripción. En caso de estar previamente asignados los cargos, estos deben ser aquí especificados.
+      * Una foto de cada persona integrante de la lista. 
+      * El programa o plan de trabajo de la lista para su posterior publicación. 
+      * Un resumen del documento anterior con largo máximo de una carilla tamaño oficio.
+      * El nombre de su persona apoderada, quien no podrá ser parte del Comité Ejecutivo del **CAi** en ejercicio. 
+   - En el caso de las candidaturas a la Consejería Académica: 
+      * El nombre de la persona candidata, la cual debe haber aprobado el proceso de preinscripción. 
+      * Una foto
+      * Un plan de trabajo y propuestas para su período. 
 
+9) Se cerrará el proceso de inscripción diez días hábiles después de haber sido abierto. Si finalizado este plazo alguna elección no tuviera al menos dos postulantes, dicha elección se llevará a cabo aprobando o rechazando a la única persona postulante. Para que una persona postulante salga elegida bajo esta modalidad es necesario que lo apruebe más del 70% de los votos válidamente emitidos. En caso contrario las personas postulantes deberán ser aprobadas por ambos consejos mediante quórum calificado. 
+10) Una vez cerrado el proceso de inscripción, si alguna de las listas debe modificar a sus candidaturas sólo puede realizar un cambio entre el resto de las personas integrantes de la misma.
+11) En el caso de no presentarse ninguna lista dentro de ambos períodos de inscripción, el Centro de Alumnos en ejercicio continuará con sus funciones hasta el mes de marzo del año siguiente, mes en el que se iniciará un nuevo proceso eleccionario. Las fechas de dicho proceso deberán ser definidas en el primer consejo ordinario del Consejo Generacional posterior a las elecciones, siendo el último plazo para la realización de éstas el primer día de abril. El mismo proceso se seguirá en el caso de que se rechace la lista única tanto en las elecciones o en los Consejos, según lo estipulado en el artículo 23(*Votación Comite Ejecutivo*).
+12) El Comité Ejecutivo deberá publicar en su fichero y página web los programas de las listas a lo más dos días hábiles después del cierre de inscripciones.
+13) A lo más 6 días hábiles después del cierre de las inscripciones deberá efectuarse una asamblea general de presentación de los postulantes a las tres elecciones, cuyo objetivo será dar a conocer sus programas y responder las inquietudes del estudiantado. 
+14) A lo más dos días hábiles después de la asamblea de presentación de las listas, se iniciará el período de votación, que se prolongará por dos días hábiles.
+15) Estudiantes que se encuentren cursando Pregrado en el Instituto de Ingeniería Matemática Computacional tendrán derecho a votar por Comité Ejecutivo y por Consejería Académica. 
+16) *SITUACION COLLEGE MAJOR CS DATOS*
+17) *SITUACIÓN ALUMNOS EN ARTICULACIÓN / MAGISTER EN INGEMAT*
+18) El resultado de las elecciones se determinará de la siguiente forma: 
+   - Si en una elección hay una sola postulación, se rige según el inciso H del presente artículo. 
+   - Si hay sólo dos personas postulantes resultará elegida aquella que obtenga simple mayoría sobre la otra. Para estos efectos se entenderá que existe simple mayoría si una de las dos listas tiene al menos un voto más que la otra. Para estos efectos no se tomarán en cuenta los votos blancos ni nulos. Si ambas personas postulantes obtienen el mismo número de votos, le corresponderá decidir a los consejos Generacional y Académico por mutuo acuerdo.
+   - Si hay tres o más postulantes, quienes obtengan las dos primeras mayorías en la votación, irán a segunda vuelta, siempre y cuando ninguna de ellas obtengan más del 50% de los votos válidamente emitidos. Se entenderá como válidamente emitidos los votos totales sin contar blancos ni nulos. La segunda vuelta se realizará a lo más 5 días hábiles después del término de la primera vuelta, y se regirá como una votación de sólo dos postulantes. 
 
-Protocolo ambiental:
-Art. 1. El presente documento tiene como objetivo orientar los protocolos efectuados al momento de realizar eventos, actividades, campañas y reuniones organizados por estudiantes del IMC UC. La idea es promover una cultura integral de sustentabilidad y responsabilidad del uso de datos, que sea replicada en los años futuros.
-Art. 2. Previo a la reunión o evento se deberá:
-1.	Realizar una estimación y seguimiento de la asistencia que tendrá el evento, para así tener una noción del consumo que existirá.
-2.	Si es que hay, solicitar al servicio de catering evitar el desperdicio de alimentos. Esto debe ser acordado antes de contratarlos.
-3.	Informar a todos los servicios externos que se contraten los lineamientos que se esperan cumplir y solicitarles que los cumplan dentro de lo posible.
-Art. 3. Sobre comunicaciones y difusión se deberá:
-1.	Priorizar la difusión de información a través de medios digitales, anteponiéndose por sobre el formato físico, el cual podría generar residuos (flyers, carteles, etc.).
-2.	En el caso de utilizar medios físicos de difusión, se espera que sean fabricados con materiales compostables o reciclables.
-3.	Se espera que cada evento posea una declaración sobre las políticas de sustentabilidad aplicadas en el evento. Esta debe ser dada a conocer a asistentes y personas invitadas.
-4.	En el caso de campañas, se solicita evitar materiales de un solo uso para su propaganda (cotillón, carteles, panfletos, chapitas, obsequios, etc).
-Art. 4. Sobre el transporte se deberá:
-1.	Priorizar lugares con buen acceso a transporte público y/o bicicleta.
-2.	Incentivar el uso de transporte público y carpooling hacia los eventos.
-3.	Para eventos en los cuales se espera una alta participación y son desarrollados en locaciones remotas, se debe proveer de buses de transporte para evitar el uso masivo de autos particulares.
-4.	Promover iniciativas que enfrenten la problemática ligada al transporte, tal como puede ser el Sistema de Bicicletas Compartidas (SIBICO) de la Universidad o iniciativas similares.
-Art. 5. Sobre la energía se deberá:
-1.	Preferir lugares con buena iluminación natural.
-2.	Preferir lugares con fuentes energéticas eficientes y, si es posible, renovables.
-3.	Preocuparse de instalar señaléticas que alienten al personal y participantes a mantener luces y aparatos eléctricos apagados.
-Art. 6. Sobre el catering, comestibles y bebestibles se deberá:
-1.	Procurar proporcionar por lo menos una opción vegetariana y vegana.
-2.	Asegurarse de que los bebestibles vengan en recipientes de mayor tamaño.
-3.	Los utensilios, platos, vasos y cubiertos deben ser reutilizables, a no ser que no exista la opción (el centro LICD puede proveer algunos de estos). Otra opción es pedirle a quienes asistan al evento que traigan los propios vasos y utensilios.
-4.	Priorizar latas o vidrio, los cuales son más reciclables, por sobre plástico.
-5.	Realizar una estimación de cuánto alimento se va a necesitar, para así evitar compras excesivas, buscando que no exista desperdicio alimentario.
-6.	Si resulta haber sobras alimenticias, buscar una manera de aprovechar su uso, ya sea darle las sobras al staff, donarla a Red de Alimentos o instituciones similares, entre otras opciones.
-7.	Priorizar la compra local y a PYMES por sobre grandes cadenas.
-Art. 7. Sobre los residuos se deberá:
-1.	Preocuparse de disminuir los residuos de la mayor manera posible, por ejemplo, incentivando la compra a granel o priorizando alimentos sin envoltorios excesivos.
-2.	Se prefiere servir alimentos elaborados con ingredientes locales y de estación.
-3.	Tener los contenedores apropiados en el evento para su posterior reciclaje y compostaje, asegurándose de poner claras indicaciones sobre qué residuo pertenece en cada basurero.
-4.	Posterior al evento, el equipo organizador debe asegurarse de que los residuos queden en los lugares correspondientes, ya sea los puntos verdes de Ingeniería (si son pocos residuos) o el punto limpio de San Joaquín.
-Art. 8. Sobre la gestión de agua se deberá:
-1.	Evitar el sobre uso de agua, teniendo un consumo consciente.
-2.	Incentivar de manera presencial y digital el uso responsable de agua por parte de los asistentes.
-3.	Evitar actividades que impliquen contaminación hídrica, por ejemplo, agua con pintura o aceite.
-Art. 9. Sobre los obsequios y premios se deberá:
-1.	Se entregarán obsequios y premios siendo conscientes de sus impactos ambientales, haciendo un análisis crítico de su cadena de valor (de donde viene, emisiones de producción, vida útil, etc), evitando entregar regalos que no tengan utilidad real. Se motiva comprar a PYMES y pequeñas empresas locales, y evitar comprar productos producidos al por mayor y transportados desde países lejanos.
-2.	La envoltura de obsequios y premios debería ser con materiales reciclables, reutilizables o compostables.
-3.	En el caso de necesitar delivery para la entrega de estos obsequios, priorizar el bici reparto o el retiro en la Universidad.
-Art. 10. Sobre el staff se debe considerar que:
-1.	En cada evento debe haber por lo menos un encargado de sustentabilidad. Su función principal es asegurar que su evento esté alineado con lo propuesto en este manual. Esto incluye, preocuparse de tener un sistema de gestión de residuos adecuado (basureros, bolsas), asegurarse de que los proveedores del evento cumplan con sus compromisos, etc. Esta persona deberá rendir cuentas al centro LICD y/o Consejo sobre el evento.
-2.	Se deberá proveer al equipo Staff, ayudantes o personas voluntarias, distintivos reutilizables. Se evitará el uso de información en las prendas que las vuelvan obsoletas luego del evento.
-Art. 11. Sobre los eventos masivos, se deberá:
-1.	Si bien muchos temas relacionados a eventos masivos (como la Gala, Galita) se tocan en apartados anteriores, este apartado se refiere de manera más específica a estos eventos.
-2.	Evitar lo más posible la compra de cotillón. Si es que esto no fuese posible, preocuparse de cuidarlo para darle uso futuro.
-3.	Planificar la comida y el catering de manera que se eviten paquetes individuales de comida y se evite comprar alimentos que vienen sobre envasados, para evitar el uso excesivo de plástico.
-4.	Preocuparse que el consumo de alimentos y bebestibles sea mediante utensilios reutilizables (vasos, cubiertos, platos). Para eventos pequeños y medianos se pueden pedir utensilios disponibles en el centro LICD con anticipación. Si es que eso no fuese posible o el evento es muy masivo, incentivar a las personas asistentes del evento a traer sus propias cosas.
-5.	Tener disponibles basureros adecuados para la gestión de los residuos a producir, en lugares estratégicos. La idea es que no haya basureros regulares en todo el lugar y un solo punto limpio, para que no se boten residuos gestionables como basura.
-Art. 12. Sobre este Apartado:
-1.	Se solicitará a participantes actuar de forma consciente y responsable con el lugar en que sitúa el evento.
-2.	Este manual busca armar una base mínima para eventos sustentables, pero se incentiva a seguir buscando formas de mejorar la forma en que se llevan a cabo las actividades tanto fuera como dentro de nuestra Universidad.
-Art. 13. Respeto a los Integrantes de la Comunidad IMC UC:
+**Artículo:** Los postulantes al Comité Ejecutivo deberán cumplir, al momento de la preinscripción: 
 
-1.	En conformidad con los principios fundamentales de integridad académica, esta institución se compromete a fomentar un ambiente de respeto y colaboración. Nos dedicamos a cultivar relaciones sanas que servirán como cimiento para las futuras generaciones de esta comunidad académica.
-2.	Conforme a los valores antes mencionados, se establece que toda red oficial asociada a la carrera deberá adherirse a un protocolo de convivencia diseñado para sustentar y promover un entorno comunitario armonioso y enriquecedor dentro de la comunidad IMC UC.
+1) Ser alumnos regulares de la Escuela de Ingeniería de la Pontificia Universidad Católica de Chile.
+2) Tener a lo menos tres semestres cursados en la unidad académica o 150 créditos aprobados de algún currículum de *Ingeniería Civil* al momento de la elección. 
+3) Tener un promedio ponderado de los últimos tres Promedio Semestral de notas (PPS), al momento de la elección, superior o igual a 4,50. 
+4) Esta norma tiene por objetivo que ningún miembro del Comité Ejecutivo caiga en Comisión de Permanencia durante su ejercicio. El organismo oficial de validación es la *Dirección de Pregrado de la Escuela de Ingeniería*.
+5) No haber caído en Comisión de Permanencia durante los últimos dos semestres efectivamente cursados. 
+6) No haber acumulado dos o más alertas académicas en los últimos 3 semestres efectivamente cursados. 
+7) Tener antecedentes de probidad académica intachables. 
 
-Protocolo de Convivencia para Lugares Físicos y Medios Sociales
-Objetivo General: Establecer las normas de conducta que garanticen un entorno seguro y respetuoso tanto en espacios físicos como en plataformas digitales de la comunidad IMC UC.
-I. Convivencia en Espacios Físicos
-Respeto a la Integridad Personal: Todos los miembros de la comunidad deben mantener un trato respetuoso y cortés, evitando cualquier forma de discriminación, acoso o violencia.
-Uso de las Instalaciones: Las instalaciones deben ser utilizadas de manera responsable, manteniendo el orden y la limpieza, y respetando los bienes comunes y privados.
-Actividades y Eventos: Las actividades y eventos organizados dentro del campus deberán ser autorizados previamente por la administración, asegurando que se adhieran a los principios de esta política de convivencia.
-II. Convivencia en Medios Sociales oficiales del IMC.
-Publicaciones y Comunicaciones: Las comunicaciones en medios sociales deben ser constructivas y respetuosas. Se prohíbe el uso de lenguaje ofensivo, discriminatorio o que incite al conflicto para cualquier miembro de IMC UC.
-Privacidad y Datos Personales: Se debe respetar la privacidad de todos los miembros de la comunidad. La divulgación de información personal sin consentimiento está estrictamente prohibida.
-Uso de la Imagen Institucional: Cualquier uso de la imagen o recursos de la institución en redes sociales debe ser previamente autorizado por los representantes autorizados de la IMC UC.
-III. Mecanismos de Reporte y Resolución de Conflictos
-Sistema de Reporte: Se establecerá un sistema accesible para que los miembros de la comunidad puedan reportar comportamientos inapropiados o conflictos. Se esperan argumentos razonables para cada situación, no se busca prohibir la libre expresión, sino que se busca el respeto de la comunidad.
-Proceso de Resolución: Los conflictos serán tratados de manera justa y confidencial, buscando siempre una resolución que promueva la reintegración y el respeto mutuo.
-Este protocolo busca ser un documento vivo que se ajuste a las necesidades cambiantes de nuestra comunidad, asegurando un entorno inclusivo y respetuoso para todos sus miembros.
+El TRICEL será responsable de velar por todos los incisos de este artículo. 
 
+**Artículo:** La candidatura a Presidencia del CAi deberá tener un promedio ponderado acumulado de notas (PPA) superior o igual 4,80 y a lo menos 200 créditos aprobados de algún programa de la Escuela de Ingeniería Civil al momento de la preinscripción.
 
+**Artículo:** La candidatura al cargo de Jefatura de Investigación deberá específicamente ser estudiante regular o en vías de grado de Postgrado. (NO SE SI ES NECESARIO)
 
+**Artículo:**  Las candidaturas a Consejería Académica deberán cumplir con los siguientes requisitos, al momento de la preinscripción:
+   - Ser estudiante regular de algún major o título profesional de Ingeniería Civil(?) con PPA superior 4.80. 
+   - Haber aprobado al menos 200 créditos al momento de inscribir la candidatura.
+   - No haber caído en Comisión de Permanencia o haber acumulado dos o más alertas académicas en los últimos dos semestres efectivamente cursados.
+   - Tener antecedentes de probidad académica intachables. El TRICEL será responsable de velar por todos los incisos de este artículo. 
 
+**Artículo:** En caso de no presentarse ninguna candidatura al cargo de Consejería Académica después de los dos períodos estipulados en el artículo 23(*Votaciones*), inciso 8 de esta parte, la Consejería Académica elegirá de entre sus miembros (que cumplan con los requisitos de Consejería Académica) a alguien que asuma el cargo. Esta obligación recaerá ineludiblemente sobre alguno de los Representantes, y ellos deben estar conscientes de dicha condición antes de ser elegidos como tales. El Representante que asuma el cargo tendrá la opción de designar a un reemplazante para su labor previa como representante de especialidad. Todas estas obligaciones corresponderán al Consejo Académico en ejercicio.
 
+**Artículo:** La nominación de cada subconsejería se realizará posterior a la elección de Comité Ejecutivo y Consejerías Académicas, bajo los siguientes criterios: 
+   - Para el caso de la Subconsejería Académica, será la Jefatura de Docencia, a menos que la Consejería Académica proponga una persona distinta, quien debe cumplir los requisitos del artículo 24 (Requisitos Comité Ejecutivo)
+   - Deben ser validadas por mayoría simple en la Consejería Académica en el primer consejo ordinario de la directiva electa.
+   - De no ser validado, cada Consejería puede proponer otro nombre entre los representantes existentes que cumplan los requisitos de los artículos 24
 
+**Artículo:** Los Representantes durarán un año en sus funciones. Esta elección se hará de acuerdo a las siguientes normas: 
+1) Cada estudiante tendrá derecho a votar por dos candidatos de su respectiva generación. En ningún caso podrá acumular estos dos votos en una misma candidatura. 
+2) Durante la cuarta semana a partir del inicio del primer periodo académico para alumnos antiguos se abrirán las inscripciones para los postulantes. La apertura de inscripciones deberá ser avisada con una semana de anticipación. No existe restricción con respecto al número máximo de postulantes, siempre que todos cumplan con los requisitos estipulados en el presente estatuto. Las fechas podrán ser adelantadas o retrasadas con un margen máximo de dos semanas, previa aprobación del Consejo respectivo bajo quórum calificado.
 
+3) Se cerrará el proceso de inscripciones cinco días hábiles después de haber sido abierto. Durante estos días, los candidatos tendrán la obligación de entregar al CAi los siguientes documentos: 
 
+   - Un escrito que contenga el nombre, rut, mail UC, generación y especialidad, generación por la que postula.
+   - Una foto del candidato.
 
+Esta misma información deberá ser enviada por correo electrónico al Secretario General del Comité Ejecutivo. 
 
+4) Si sólo se hubiera presentado un candidato o ninguno para alguna generación, se reabrirán las inscripciones para todos los cargos durante los próximos cinco días hábiles para dar la posibilidad que se inscriban más candidatos. 
+5) A lo más cinco días hábiles después del cierre de las inscripciones se iniciará el periodo de votación, el cual se prolongará por dos días hábiles. 
+6) Para los delegados generacionales serán elegidas las dos primeras mayorías.
 
+**Artículo:** Para postular al cargo de Delegado se debe cumplir con los siguientes requisitos:
+   - Ser alumno regular de Pregrado del Instituto de Ingeniería Matemática Computacional.
+   - Pertenecer a la generación que representaría y estar cursando a lo menos 30 créditos de cualquiera de las mallas curriculares del Instituto de Ingeniería Matemática Computacional. *Además, presentar en la oficina del CAi 50 firmas que validen la candidatura.*
 
+**Artículo:** Los miembros tanto del Consejo Académico como Generacional, así como las Coordinaciones Generales del Centro de Alumnos cesarán en sus cargos, para todos sus efectos, por alguna de las siguientes razones: 
+   - Término de su periodo. 
 
+   - Tratándose de los delegados, dejar de ser alumno regular de la unidad académica. 
 
+   - Tratándose de los delegados, no cursar ramos del currículum 
 
+   - Ser destituido por el Consejo al que pertenece por grave infracción a este estatuto. 
 
+   - Renuncia aceptada por el Presidente o formulada como indeclinable. Se deberá presentar la renuncia de forma escrita. 
 
+   - Tratándose del Presidente, por renuncia aceptada por ambos Consejos o formulada como indeclinable. 
 
+   - Por ser inhabilitado en razón de su incapacidad como dirigente estudiantil. Para entender acogida la inhabilidad se requerirá lo siguiente: 
+      * La aprobación de cada Consejo, la cual se obtendrá mediante la aprobación de dos tercios de los votos posibles, si se tratase de un miembro del Comité Ejecutivo, o del Consejero Académico.
+      * La aprobación de dos tercios de los votos posibles del Consejo al que pertenezca excluyéndose al afectado, en caso de tratarse de algún delegado
+   - Caer en Comisión de Permanencia.
+   - Involucrarse en situaciones de probidad académica reprochables. El Consejo al que pertenezca será responsable de velar por esto. 
+   - Asumir otro cargo de representación que integre el Consejo Generacional o Académico del **CAi**.
+   - Ejercer alguno de los cargos de representación enunciados a continuación: 
+      * Directiva de la FEUC. 
 
+      * Consejería o Subconsejería Superior FEUC. 
 
+      * Consejería Territorial FEUC. 
 
+      * Delegatura CONFECh. 
+   - Ser elegido o ejercer algún cargo de representación estudiantil en otra Unidad Académica. 
 
+**Artículo:** El número máximo de ausencias a las sesiones del Consejo correspondiente aceptadas a los Representantes, y a los representantes del Comité Ejecutivo es como sigue: 
+   - Sesiones Ordinarias: Dos ausencias si no son justificadas, o tres ausencias si alguna de ellas es debidamente justificada. 
 
+      Para que una ausencia se considere justificada se debe: avisar con al menos 5 horas de anticipación del consejo y tener algún compromiso previamente establecido a la hora del consejo, o un evento de fuerza mayor que imposibilite asistir al consejo. Quien tiene el poder de validar una justificación es el Secretario General del Comité Ejecutivo, después de recibir el documento oficial de justificación. Es el Secretario quien define cómo indicar cada razón de justificación en el acta. 
 
+   - Sesiones Extraordinarias: un máximo de tres ausencias cada diez sesiones de consejos extraordinarios, siempre y cuando sean citados con al menos 36 horas de anticipación. La cantidad de ausencias se extiende en tres más para cada conjunto de diez Consejos Extraordinarios. 
+   - Será posible extender la cantidad de inasistencias justificadas posibles para un delegado en la cantidad que el Consejo estime adecuado, siempre teniendo presente el contexto y los motivos. Esto se podrá hacer a petición del delegado después de haber perdido el derecho a voz y voto en el Consejo correspondiente (en el que perdió voz y voto). El Consejo correspondiente podrá rechazar la solicitud en caso de que no la considere adecuada. Esto se podrá hacer solamente una vez por delegado durante su período.
 
+      El tiempo mínimo que debe estar un miembro del Consejo durante una sesión para que su asistencia sea considerada es de 30 minutos. La asistencia de los miembros del Consejo debe ser publicada en github.
 
+      En caso de que las restricciones 1 o 2 del presente artículo sean violadas, el Representante será sancionado con la pérdida inmediata del derecho a voz y voto en ambas instancias del Consejo al que pertenece (sesiones ordinarias y extraordinarias), si bien podrá seguir representando al estudiantado frente a los profesores de su generación. En el caso del Comité Ejecutivo, este perderá el derecho a voz y voto por el resto de su período. 
+      Tratándose de los delegados generacionales, se considerará como ausencia al Consejo Académico el hecho de que ninguno de los dos esté presente. En el caso de no cumplir con las restricciones A o B del presente artículo, se considerará que pierden su derecho a voz y voto por el resto de su período en dicho Consejo.  
 
+**Artículo:** Si alguno de los miembros del Comité Ejecutivo, exceptuando al Presidente, cesare en su cargo, será reemplazado por quien designe el Presidente, con el posible veto de alguno de los Consejos, obtenido mediante votación por quórum calificado. 
 
-Tribunal Calificar de Elecciones · TRICEL
-Reglamento TRICEL centro LICD
-El presente reglamento tiene como misión establecer el fin, las responsabilidades, la conformación y las decisiones que puede tomar el Tribunal Calificador de Elecciones del Centro de Alumnos de Ingeniería de la Pontificia Universidad Católica de Chile.
-Título I
-Conformación del TRICEL
-Art. 1. El Tribunal Calificador de Elecciones (de ahora en adelante TRICEL o solo Tribunal) se conformará para velar por la transparencia, imparcialidad y dar garantía de cualquier proceso eleccionario a nivel de centro LICD promoviendo la participación del estudiantado.
-Art. 2. Si algún integrante del TRICEL quisiese cesar en sus funciones, podrá hacerlo, debiendo designar un reemplazante que pertenezca a la misma instancia de procedencia del integrante saliente. El reemplazo se hará válido cuando sea informado al resto de los integrantes del TRICEL. En caso de inhabilitarse alguno de los integrantes por motivos de fuerza mayor, el TRICEL designará a su reemplazante que pertenezca a la misma instancia de procedencia del integrante saliente.
-Art. 3. Corresponderá a la presidencia del TRICEL:
-1.	La vocería ante las autoridades del IMC UC, Consejo Generacional, Consejo Académico, y el estudiantado de pregrado de ingeniería.
-2.	Citar a reunión al TRICEL, difundiendo públicamente las instancias de reunión.
-3.	Velar por el cumplimiento de las tareas fundamentales del TRICEL.
-4.	Solicitar el abandono de la sesión a alguna de las personas asistentes que no fueran miembros de este tribunal, cuando lo estimare indispensable para el normal desenvolvimiento de la sesión, previa aprobación del TRICEL.
-Art. 4. Corresponderá al apoderado de lista de Comité Ejecutivo o de la candidatura a Consejería Académica:
-1.	La vocería única de las candidaturas. Esto implica que no se van a aceptar reclamos o sugerencias que no sean del apoderado.
-2.	Pedir la cédula de votación antes de mandarla al lugar de impresión, verificando la correcta escritura de esta.
-Art. 5. Corresponderá al TRICEL
-1.	Diseñar y configurar la cédula de votación, debidamente foliadas, y siendo responsabilidad de los apoderados de cada lista el verificar que el nombre de las candidaturas corresponde efectivamente a la persona adecuada. La ubicación de las listas en el voto se determinará al azar a través de un sorteo público.
-2.	Realizar el escrutinio general de las elecciones de Comité Ejecutivo, Consejería Académica, Delegados, plebiscito o sufragio universal a nivel de centro LICD no especificado anteriormente.
-3.	Atender y resolver las reclamaciones que se interpongan en materias de su competencia. El procedimiento de reclamo está sujeto al Art. 29 del presente reglamento.
-4.	Calificar los procesos electorales y plebiscitarios, dando su dictamen respecto de la legitimidad o nulidad parcial o total del acto, y proclamar a quienes resulten electos o el resultado del plebiscito. La circunstancia de que quede pendiente alguna elección no obstará al envío de las proclamaciones de aquellos a quienes esta no afecte.
-5.	Dar a conocer al estudiantado de ingeniería la forma de votar establecida por el Consejo que hizo el llamado a votación y también el diseño de la cédula de votación.
-6.	Determinar la lista de personas con derecho a voto de acuerdo con los estatutos vigentes.
-7.	Distribuir el material necesario para el correcto desarrollo del acto eleccionario, y recoger el mismo finalizado este.
-8.	Resolver cualquier asunto que afecte el correcto funcionamiento del proceso eleccionario.
-9.	Verificar el cumplimiento del presente reglamento y lo referido a elecciones, requisitos y sanciones en los estatutos vigentes en los lugares de votación.
-Art. 6. El Tribunal Calificador de Elecciones celebrará sesiones para tratar las atribuciones que le confiere este reglamento y los estatutos. Los días y horarios en que estas se realicen quedarán definidos por acuerdo de los integrantes de este.
-Art. 7. El Tribunal sesionará con la mayoría de sus integrantes y adoptará sus acuerdos por la mayoría absoluta de los presentes. En caso de empate decidirá la presidencia del TRICEL.
-Art. 8. Los integrantes del TRICEL deben mantener la imparcialidad durante todo el proceso, por lo que el cargo de integrante del TRICEL será incompatible con cualquier candidatura para la elección en que se constituya el Tribunal.
-Art. 9. Podrán llamar a sesión extraordinaria la presidencia del TRICEL de forma unilateral, con al menos 2 horas de anticipación, 2 integrantes del TRICEL con al menos 6 horas de anticipación y 3 integrantes del TRICEL con al menos 2 horas de anticipación.
-Art. 10. En todas las sesiones del TRICEL se deberá redactar un acta de lo conversado y las decisiones acordadas deberán ser publicadas como resoluciones del TRICEL. Las actas y resoluciones deberán ser públicas y se podrá censurar u omitir información personal y/o sensible si se estima conveniente para proteger la dignidad de las personas.
-Art. 11. El TRICEL tendrá el deber de difundir a través de la cadena de los Consejos y las redes sociales que estime conveniente las actas, resoluciones y demás elementos que este reglamento establezca como públicas. Además, podrá solicitar apoyo en difusión a los Consejos, Comité Ejecutivo u otra instancia relevante, para conseguir el mayor alcance dentro del estudiantado. Adicionalmente, todos los documentos públicos deberán ser publicados en la página Web del centro LICD.
-Art. 12. El TRICEL emitirá un documento denominado “Reglamento de Campaña” en el que se detallarán los lineamientos específicos respecto a cada proceso eleccionario. La publicación de este documento deberá realizarse en un plazo máximo de dos días previo al período de campaña, sin perjuicio de las modificaciones posteriores aprobadas por el tribunal, bajo mayoría absoluta de sus integrantes.
-Título II
-Período de Campaña
-Art. 13. Se establecerá un período de campaña, que se iniciará el día siguiente al cierre de inscripción de candidaturas, y terminará el junto al acto eleccionario. Se entiende por campaña cualquier acto masivo, como pasar por salas, eventos en los patios, etc. Durante los días de votación, no estará permitida propaganda electoral en un perímetro de 5 metros al lugar de votación, los cuales deben estar delimitados. Se entenderá como propaganda electoral, todo acto humano voluntario y cosa, corporal o incorporal, que induzca al voto o dé a conocer a una lista o candidatura, ya sea por medios de audio, gráficos o electrónicos. No pueden ingresar las candidaturas al perímetro establecido. Todo acto de propaganda electoral será sancionado por el TRICEL de acuerdo con las normas del presente reglamento.
-Art. 14. Dentro de los actos de propaganda tendientes a cumplir con el requisito de información de toda elección, se realizará una asamblea de presentación de las listas a Comité Ejecutivo y otra de las candidaturas a la Consejería Académica. Será deber del TRICEL organizar, dirigir, supervisar y fechar dichas asambleas dentro de los plazos establecidos en los estatutos vigentes. Será deber del Comité Ejecutivo del centro LICD, fiscalizado por el TRICEL, informar a la comunidad de ingeniería acerca del cronograma de dichas actividades, sin perjuicio de lo establecido en este reglamento, además de procurarla mayor asistencia posible del estudiantado en cada una de estas instancias. El formato de la asamblea de presentación será definido por el TRICEL (por ejemplo: foro o debate).
-Título III
-Proceso Eleccionario
-Art. 15. En conformidad con los estatutos, se establecerán 2 días hábiles consecutivos para el proceso eleccionario, dentro de las fechas que dicho estatuto dispone.
-Artículo 16. Las mesas receptoras de sufragios funcionarán al menos durante ocho horas consecutivas, debiendo constituirse nunca antes de las 8:00 horas ni después de las 11:00 horas de los días señalados por el presente tribunal para que se desarrolle el acto eleccionario, ajustando el horario para velar por la mayor participación del estudiantado.
-Art. 17. En el caso de que la votación fuese presencial: Se instalará en cada zona de sufragio al menos una mesa receptora de sufragios. Las mesas están constituidas por un presidente, designado por el Comité Ejecutivo del centro LICD, y si las listas participantes así lo desean, podrán tener en las mesas un vocal para que certifique la transparencia del acto eleccionario. El vocal tiene derecho a inspeccionar las acciones del presidente de mesa, pero no a hacer propaganda electoral según está definido en el Art. 13 de este reglamento, ni a interferir en ningún momento del proceso de votación. Corresponderá al TRICEL fijar el lugar donde se instalarán las mesas receptoras de sufragios, lugar que ocuparán los dos días señalados para la elección. Asimismo, cualquier movimiento de estas debe ser autorizado por este. Es responsabilidad de la presidencia de mesa: verificar que el perímetro de votación se encuentre libre de propaganda en todo momento, evitar que se realice propaganda electoral de cualquier tipo dentro del perímetro de votación, impedir cualquier forma de inducción del voto, ser el único en explicar la manera de votación a cada votante, ser garante del registro de firmas de los votantes y expulsar del perímetro a cualquier persona que impida el correcto cumplimiento de estas responsabilidades. Cualquier reclamo por el accionar del presidente de mesa que deberá ser comunicado a algún integrante del TRICEL.
-Artículo 18. En el caso de que la modalidad de la votación fuese completamente remota, se regula la votación mediante al Artículo 17. Sin perjuicio de lo anterior:
-1.	Se definirá una única plataforma de votación, que deberá ser aprobada previamente por el Consejo Generacional.
-2.	Debe existir una plataforma que asegure la privacidad al momento de votar. Esto debe asegurar la tranquilidad del estudiantado al momento de hacer su elección.
-3.	Serán causales de reclamo por parte de cualquier estudiante de la Escuela, las siguientes:
-a.	Funcionamiento irregular de la plataforma
-b.	Reiterada inducción al voto al momento del sufragio
-c.	Cualquier otra acción u omisión que afecte considerablemente la normalidad del proceso eleccionario.
-Artículo 19. Cualquier modalidad intermedia de votación quedará sujeta al cumplimiento de los lineamientos establecidos en los artículos 17 y 18 del presente apartado.
-Art. 19. Las mesas receptoras de sufragios dispondrán de una copia de las listas oficiales de estudiantes a los que les corresponde votar en determinada mesa, así como de un acta en la que se establezcan tanto la hora de apertura de la mesa, los folios de los votos recibidos por el TRICEL al abrir la mesa o durante el día de votación, la firma del TRICEL que abra y cierre la mesa, los presidentes de mesa durante el día de votación, las situaciones especiales y reclamos recibidos durante el acto eleccionario y, al terminar el día, los folios de los votos emitidos, la cantidad de votos emitidos (colillas cuando corresponda) y la cantidad de firmas presentes en las listas de registro.
-Art. 20. Las mesas receptoras de sufragios funcionarán durante ocho horas consecutivas, debiendo constituirse nunca antes de las 9:00 horas ni después de las 11:00 horas de los días señalados por el presente tribunal para que se desarrolle el acto eleccionario, ajustando el horario para velar por la mayor participación del estudiantado. Se debe verificar un radio de 5 metros libres de propaganda. Una vez llegada la hora de cierre de las diferentes mesas receptoras de sufragios, se procederá a hacer un llamado a viva voz a emitir sufragio, y de no existir estudiantes dispuestos a votar, se cerrará dejando las debidas constancias en el acta. En caso de que en el momento de cierre de la mesa existan estudiantes dispuestos a votar, se alargará el tiempo de funcionamiento de esta por dos veces, durante 15 minutos, luego de los cuales la mesa se cerrará definitivamente.
-Art. 21: Solo los integrantes del TRICEL están autorizados para abrir las mesas receptoras. Para la constitución de mesa, será necesaria la presencia de un presidente de mesa, designado por el Comité Ejecutivo del centro LICD. En caso de que no se haya designado, el TRICEL debe hacerlo. Durante el resto del día, siempre tendrá que estar presente en la mesa un presidente, sin la necesidad que este sea el que inició el día, pudiendo ser reemplazado durante el día por cualquier estudiante con derecho a votar, excluyendo a toda candidatura o apoderado.
-Art. 22. Debe existir un lugar que asegure la privacidad al momento de votar.Esto debe asegurar la tranquilidad del estudiantado al momento de hacer su elección.
-Art. 23. Serán causales de reclamo de mesa por parte de los apoderados de lista, las siguientes:
-1.	Funcionamiento irregular de la mesa.
-2.	Reiterada inducción al voto en la mesa de votación, por parte de cualquiera de las listas
-3.	Violación o deterioro significativo de la urna de votación
-4.	Cualquier otra acción u omisión que afecte considerablemente la normalidad del proceso eleccionario.
-5.	Acceso al contenido de la urna en cualquier momento salvo en los momentos autorizados.
-Conociendo las reclamaciones de impugnación, el TRICEL apreciará los hechos a tenor de la influencia que ellos hayan tenido en el resultado de la elección. Para anular una mesa, será necesario el 80% a favor de esta medida de los votos de los integrantes del Tribunal. Los hechos, defectos o irregularidades que no influyan en el resultado general de la elección, sea que hayan ocurrido antes, durante o después de la votación, no darán mérito para declarar su nulidad.
-Si como resultado de la deliberación del TRICEL se considera la anulación de una mesa, el TRICEL, de acuerdo con la naturaleza de la causa de esta anulación, podrá optar por invalidar la mesa o comenzar nuevamente el proceso eleccionario en la mesa afectada.
-Art. 24. El sufragante deberá presentar en la mesa receptora de sufragios su credencial de alumno regular de la Pontificia Universidad Católica o cualquier otro documento determinado por el TRICEL que lo acredite fehacientemente. Luego de que la mesa receptora de sufragios identifique su nombre dentro de las listas oficiales, se le entregará la cédula de votación. Una vez recibida la cédula de votación, cada estudiante deberá firmar el registro. Aquel cuyo nombre no aparece en las listas oficiales, no podrá votar bajo ninguna circunstancia, salvo que pruebe su calidad de estudiante de ingeniería mediante documento extendido por la Dirección de Registros Académicos.
-Título IV
-Escrutinio
-Art. 25. Una vez cerradas las mesas receptoras de sufragios el segundo día de votación, las urnas serán conducidas por algún integrante del TRICEL al lugar donde se hará el conteo de votos, previamente definido por el TRICEL. Reunidas todas las mesas receptoras de sufragios, se procederá a leer a viva voz los votos de todas las urnas. Se considerarán Blancos, aquellos votos donde no se marque ninguna preferencia. Serán Nulos aquellos votos donde se encuentren marcadas más de una preferencia. Para los efectos del escrutinio, se dejará constancia de los votos Nulos y Blancos de cada mesa receptora. Solo podrán objetar los votos los apoderados de cada lista presentes en el acto y será el TRICEL quien decida acerca de su validez en ese mismo momento. Terminado el escrutinio de cada mesa, se procederá a llenar el acta correspondiente donde se dejará constancia de los votos de las distintas preferencias, los votos Nulos y Blancos y el porcentaje de todos ellos, que firmará el TRICEL.
-Art. 26. Aquellas mesas donde la variación del número de votos y el número de firmas de las listas oficiales no exceda al 2 por ciento de los votos, se considerarán válidas. De exceder este límite, la totalidad de los votos de dicha mesa se considerarán, para todo efecto, nulos.
-Art. 27. El TRICEL deberá validar el resultado de las elecciones en un plazo no superior a 48 horas después de finalizado el proceso eleccionario.
-Art. 28. Tanto el Comité Ejecutivo como la Consejería Académica y Representantes serán elegidos de acuerdo con lo estipulado por los estatutos vigentes del centro LICD. Sin perjuicio de lo anterior, en el caso de que la modalidad de la votación no coincidiese con alguno de los aspectos mencionados en este título, quedará a responsabilidad del TRICEL definir la reglamentación y validez de este proceso.
-Artículo 29. Cualquier participante del TRICEL podrá ser destituido de su cargo por incumplimiento de deberes previa aprobación de su Consejo de precedencia bajo quórum calificado. Su reemplazo deberá ser escogido en esta misma instancia. En el caso del participante del Comité Ejecutivo, su destitución deberá ser aprobada por ambos consejos bajo quorum calificado, reemplazandose por otra persona del comité. Finalmente, en el caso del docente, su destitución deberá ser aprobada por ambos consejos bajo quórum calificado, dejando en vacancia este cargo.
-Título V
-Sanciones
-Art. 30. Al TRICEL corresponde estimar y aplicar sanciones a quienes entorpezcan, alteren o pongan en riesgo el proceso eleccionario. Dentro de las sanciones, se incluyen amonestaciones privadas, amonestaciones públicas, expulsión de los perímetros de votación o cualquier otra sanción que ayude a la sanidad del proceso.
-Art. 31. En caso de que alguna candidatura o apoderado de las listas en cualquier mesa receptora de sufragios se encuentre realizando cualquier tipo de inducción al voto, se le exigirá el abandono del perímetro que rodea al lugar de votación, no obstante, la posible aplicación de otras sanciones. En el caso de los apoderados de lista, de reiterar su actitud serán notificados de su destitución, ante la cual la lista tiene la posibilidad de reemplazarlo por algún estudiante que estime conveniente.
-Título VI
-Reclamos Electorales
-Art. 32. El TRICEL será el encargado de recoger y de solucionar los problemas que se presenten durante el periodo eleccionario. Los reclamos deberán presentarse en forma escrita u oral a algún integrante del TRICEL. El TRICEL deberá resolver la controversia con al menos la mitad de sus integrantes.El mismo Tribunal regulará el procedimiento que adoptará para la tramitación de los asuntos que deba conocer. Podrá requerir directamente de cualquier candidatura, órgano u oficina de la Escuela los antecedentes relativos a materias pendientes de su resolución y todos ellos estarán obligados a proporcionarlos oportunamente en la medida que sea posible. El TRICEL podrá reconsiderar sus decisiones escuchando a todos los involucrados en el problema en cuestión.
-Título VII
-Títulos Finales
-Art. 33. Ante las siguientes situaciones extraordinarias la forma de abordarlas es la siguiente:
-1.	Suspensión del proceso: la debe solicitar el apoderado de lista.
-2.	El quórum de decisión debe ser el 80% de sus integrantes.
-3.	Nulidad del proceso: la debe solicitar el apoderado de lista. El quórum de decisión debe ser el 100% de sus integrantes.
-Art. 34. Cualquier situación especial no contemplada en los Estatutos y en este reglamento será resuelta por el TRICEL, que deberá hacerlo con al menos la mitad de sus integrantes reunidos y por mayoría simple.
-Art. 35. Este reglamento se verá modificado en virtud de cualquier reforma de los estatutos del centro LICD que afecten su contenido.
+**Artículo:** Si fuera el Presidente el que cesare en su cargo, asumirá el Primer Vicepresidente por lo que resta del período, efectuando una designación del nuevo Primer Vicepresidente según lo establecido en el artículo anterior.
 
+**Artículo:** Si un delegado cesare en su cargo, se designará a aquel candidato que hubiere obtenido la siguiente mayoría no electa. En caso de que no existiese o no aceptara, el delegado saliente tendrá la posibilidad de proponer un reemplazante al Consejo al que pertenezca, que deberá ser aprobado por mayoría simple. De ser rechazado, el puesto quedará vacante. Si el delegado que cesa en su cargo hubiere perdido el derecho a voto durante su periodo, el delegado que lo reemplazare carecerá del mismo por toda la extensión de su periodo. Si aún lo mantiene, mantendrá el número de ausencias del delegado saliente. 
+
+**Artículo:** Si el Consejero Académico cesare en su cargo, su reemplazante será el Subconsejero Académico.
 
 
 
