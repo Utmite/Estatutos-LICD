@@ -75,3 +75,15 @@ La lista que se presente puede tener cargos extra, siempre y cuando tengan algui
 1) Obligación de dar el control del dinero al nuevo encargado de hacienda
 
 **Artículo 8:** Corresponde a cargos opcionales, las facultades designadas por presidencia
+
+### Transparencia
+**Artículo 9:** Cada mes académico debe ser publicado un informe de transparencia, en la última semana de ese mes, con todo lo realizado por la directiva con lo siguiente:
+
+1. Integrantes directiva - año mes informe
+1. Reuniones que se tuvieron (con quien, y que se habló)
+1. Que trabajos se realizaron (Avances proyectos, Avances en comisiones, etc)
+1. Quienes aportaron en los trabajos
+1. Gastos e ingresos del centro de estudiantes
+1. Montos transferimos a iniciativas estudiantiles y que tipo de transferencia fue (rendida o no rendida)
+1. Planes futuros de la directiva
+1. Cualquier cosa que se encuentre relevante
