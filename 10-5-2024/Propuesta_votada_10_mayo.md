@@ -97,3 +97,11 @@ La lista que se presente puede tener cargos extra, siempre y cuando tengan algui
 ### Composición y funciones
 **Artículo 11:** El consejo de representantes o simplemente consejo es el órgano legislativo del centro de estudiantes, estará compuesto por 2 (dos) representantes por cada generación (con derecho a voto), el representante de la consejería académica (con derecho a voto) y un representante de la directiva (con derecho a voto)
 
+**Artículo 12:** Corresponde a los representantes generacionales
+
+1) Representar políticamente a su generación
+1) Velar por el buen desempeño académico, viendo si hay necesidad pedir ayuda a la consejería académica
+1) Ayudar en iniciativas estudiantiles o proyectos de la directiva
+1) Pedir información a la directiva
+1) Proponer temas para discutir en el consejo
+
