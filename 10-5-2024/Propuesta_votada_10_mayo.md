@@ -42,3 +42,15 @@ La lista que se presente puede tener cargos extra, siempre y cuando tengan algui
 1) Apoyar a iniciativas estudiantiles
 1) Apoyar a la consejería académica
 1) Obligación total de realizar los informes de transparencia
+
+
+**Artículo 3:** Corresponde a la Presidencia
+
+1) Representar la postura del centro de estudiantes ante las autoridades de la universidad, federación u otros organismos (Se entiende como postura del centro de estudiantes la que se adopte en el consejo).
+1) Asignación de presupuesto a los proyectos o iniciativas estudiantiles
+1) Dar cuenta pública de la gestión al término de su gestión al finalizar su mandato, mediante los medios de difusión del centro de estudiantes
+1) Crear comisiones y definir su jefatura la cual se encarga de definir la división de las tareas entre los miembros de la comisión.
+1) Asignar tareas entre los miembros de la directiva
+1) Convocar a sesiones extraordinarias del consejo
+1) Asignar un vocero para una actividad en donde no pueda asistir
+
