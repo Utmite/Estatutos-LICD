@@ -180,10 +180,10 @@ La lista que se presente puede tener cargos extra, siempre y cuando tengan algui
 **Artículo 25:** Si una iniciativa es aprobada por el consejo
 
 1) La directiva puede asignar a miembros o pedir ayuda a miembros del consejo para que ayuden en una actividad de la iniciativa.
-1) Presidencia puede asignar fondos a una iniciativa
+1) Presidencia puede asignar fondos a una iniciativa y el consejo debo aprobar el monto propuesto por presidencia
 1) Las transferencias de dinero a una iniciativa:
-   1) Si son rendidas o sea la iniciativa manda una boleta al encargado de hacienda, si el monto no supera lo asignado, se transfiere
-   1) Si no son rendidas, o sea no se tienen boleta antes de transferir, esta transferencia debe ser aprobada por el consejo
+   1) Si son rendidas o sea la iniciativa manda una boleta al encargado de hacienda, si el monto en total que se ha mandado en el tiempo no supera lo asignado, se transfiere
+   1) Si no son rendidas, o sea no se tienen boleta antes de transferir y si el monto en total que se ha mandado en el tiempo no supera lo asignado entonces la transferencia debe ser aprobada por el consejo
 1) En caso que la iniciativa pida difusión, se puede realizar en las cuentas oficiales del centro de estudiantes
 ### Iniciativas políticas
 **Artículo 25:** Con 5 representados se puede proponer un tema a la tabla del consejo, la petición debe ser entragada al secretario de la directiva
