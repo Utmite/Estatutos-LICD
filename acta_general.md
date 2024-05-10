@@ -1,3 +1,31 @@
+# Acta Reunión Delegades de Redacción de Estatutos 
+# Fecha: 10 de mayo de 2024 Asistentes: 
+**Sesión n° 2**
+
+- Antonella Ainzua 24’ 
+- Anabelee Araneda 24’ 
+- Francisca Yepsen 23’ 
+- Vicente Muñoz 23’ 
+- José Luis Cubillos 22’ 
+- Rodolfo Cruz 22’ 
+- Víctor Bórquez 21’ 
+- Camila Basulto 21’ 
+
+Temas Tratados:  
+
+1\.**Objetivos de la sesión:** Se comentan los objetivos de la reunión siendo las votaciones de los artículos propuestos por cada grupo de trabajo establecido. Además de una explicación, realizada por cada grupo sobre el contenido de su propuesta. 
+
+2\.**Inclusión de estudiantes en situaciones excepcionales:** Se comenta la relevancia de establecer claramente el funcionamiento de las situaciones que respectan a estudiantes de College con el Major de Ciencias de datos y aquellos que siendo parte de la licenciatura decidan articular al Major de Ingeniería. Se deberá regularizar la decisión en la siguiente sesión donde se retomará el tema con su debida argumentación por parte de les miembres.  
+
+3\.**Votación de los artículos propuestos:** Se realizó la votación de los artículos del número 0 hasta el 22. Se aprobaron 22 y se rechazó 1. Además, se establecieron comentarios de les integrantes respecto a acotaciones/modificaciones que harían a artículos específicos. Se dejaron los registros en el repositorio público de Github.  
+
+Conclusiones:  
+
+- Se continuará la votación de los artículos restantes en la siguiente sesión. 
+- Aquellos temas extraordinarios a los establecidos, entendiéndoseles como modificaciones, adiciones o complementos a la propuesta, se deben mantener en un archivo distinto del borrador de los Estatutos originales. Con fin de mantener un orden y priorizar los objetivos de la sesión 
+
+Acta hecha por francisca yepsen
+
 # Acta de Reunión Delegados Generacionales - 11-04-2024
 
 ## Asistentes
