@@ -90,3 +90,5 @@ La lista que se presente puede tener cargos extra, siempre y cuando tengan algui
 
 
 **Artículo 10:** Cada informe de transparencia debe quedar disponible en GitHub en la carpeta transparencia con el siguiente código Informe-Transparencia-{año}-{mes}  
+
+**Artículo 11:** Los representados o el mismo consejo pueden pedir información a la directiva, en caso de ser algún representado la información debe ser entregada como máximo en 7 días hábiles, en el caso del consejo es este el que fija el plazo (no menor a 12 horas), en caso de no fijarlo es de 7 días hábiles máximos
