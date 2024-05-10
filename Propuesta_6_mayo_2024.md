@@ -204,6 +204,7 @@ I. Finalidades, miembros, derechos y deberes de las iniciativas
 1) Hacia las personas voluntarias: Una iniciativa centro LICD debe entregar un ambiente grato y seguro para sus integrantes. Si esto no fuese así, en primera instancia la iniciativa debe manejar la situación. En caso de no ser resuelto, acudir al centro LICD como mediador entre la persona afectada y la iniciativa.
 1) Hacia la comunidad: Una iniciativa centro LICD debe velar por generar un beneficio social desde o para la comunidad de IMC UC.
 1) En caso de que alguna persona representante de la iniciativa estudiantil se vea sancionada en algún tipo de falta mayor a la ética ética, tal y como lo señala la dirección de pregrado (DiPre), esta debe dejar su cargo e informar al centro LICD.
+1) Cambios en los horizontes o principios de la iniciativa estudiantil deben ser informados al consejo para que se tome decision de aprobar o no este cambio, en virtud de mantener actualizado el articulo 27.  
 
 **Artículo 29:** Las garantías de las iniciativas estudiantiles centro LICD son las siguientes:
 
@@ -216,6 +217,7 @@ I. Finalidades, miembros, derechos y deberes de las iniciativas
 1) La directiva puede asignar a miembros o pedir ayuda a miembros del consejo para que ayuden en una actividad de la iniciativa.
 1) Presidencia puede asignar fondos a una iniciativa y el consejo debe aprobar el monto propuesto por presidencia
 1) Las transferencias de dinero a una iniciativa respectivas al artículo 27 inciso 10.
+1) El consejo deberá tener la obligación de conocer el estado en el que se encuentra el desarrollo de la iniciativa estudiantil verificando que su desarrollo vaya según lo acordado en el articulo 27. 
 
 II. Sobre el presupuesto participativo
 
