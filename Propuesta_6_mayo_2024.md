@@ -16,7 +16,7 @@
 |Año anterior anterior |Personas que entraron ese año|
 |Año anterior anterior anterior |Personas que entraron ese año o más atrás |
 
-1. Entiéndase como Github, un repositorio totalmente público en Github.com
+1. Entiéndase como GitHub, un repositorio totalmente público en GitHub.com
 1. Entiéndase como més académico todo meses en donde al menos haya dos semanas de clases, excluyendo los meses de TAV
 1. Este estatuto debe estar en el GitHub
 1. La selección al azar se hace a través de <https://echaloasuerte.com/number>, en donde se sacan números desde el 1 al 100, cada persona saca un número, la persona con el mayor número, es la seleccionada
@@ -144,7 +144,7 @@ La lista que se presente puede tener cargos extra, siempre y cuando tengan algui
 1) Dejar en claro que se habló
 1) Dejar en claro que se votó
 1) Dejar en claro quién votó por cada opción
-1) El acta estará en Github en un archivo markdown llamado acta general, la cual contendrá el registro de todas las reuniones llevadas a cabo desde la entrada en funcionamiento del estatuto, la última sesión debe ser la primera que aparece en el acta general
+1) El acta estará en GitHub en un archivo markdown llamado acta general, la cual contendrá el registro de todas las reuniones llevadas a cabo desde la entrada en funcionamiento del estatuto, la última sesión debe ser la primera que aparece en el acta general
 
 **Artículo 17:** La decisión de paro siempre será mediante plebiscito 
 
