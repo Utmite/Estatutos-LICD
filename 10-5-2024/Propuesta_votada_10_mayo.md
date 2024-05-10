@@ -62,3 +62,9 @@ La lista que se presente puede tener cargos extra, siempre y cuando tengan algui
 
 1) Lo que asigne presidencia
 
+**Artículo 6:** Corresponde a Secretaria
+
+1) Realizar los informes de transparencia (En caso de no complir es una total ruptura de los estatutos)
+1) Dejar en un lugar público las comisiones creadas, con su: misión, jefaturas y miembros
+1) Lo que asigne presidencia
+
