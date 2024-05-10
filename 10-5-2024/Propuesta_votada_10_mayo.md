@@ -74,3 +74,4 @@ La lista que se presente puede tener cargos extra, siempre y cuando tengan algui
 1) Dar información si es solicitada por alguna persona de las representadas, en el tema de finanzas, según lo dispuesto en el apartado de transparencia 
 1) Obligación de dar el control del dinero al nuevo encargado de hacienda
 
+**Artículo 8:** Corresponde a cargos opcionales, las facultades designadas por presidencia
