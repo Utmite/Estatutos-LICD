@@ -105,3 +105,14 @@ La lista que se presente puede tener cargos extra, siempre y cuando tengan algui
 1) Pedir información a la directiva
 1) Proponer temas para discutir en el consejo
 
+**Artículo 13:** Son facultades del consejo 
+
+1) Fiscalizar a la directiva en el orden financiero, de realización de proyectos u otro tema
+1) Obtener cualquier información de las acciones llevadas por la directiva
+1) Definir la opinión del centro de estudiantes respecto a cualquier tema (mediante votación en el consejo o llamar plebiscito)
+1) Someter un tema a plebiscito
+1) Velar por el cumplimiento del estatuto
+1) Aprobar el apoyo a iniciativas estudiantiles
+1) Retirar el apoyo a una iniciativa estudiantil
+1) Obligar a la directiva a realizar un proyecto
+1) Aprobar cuanto dinero es asignado a una iniciativa estudiantil, monto propuesto por presidencia
