@@ -34,3 +34,11 @@
 
 La lista que se presente puede tener cargos extra, siempre y cuando tengan alguien asignado
 
+**Artículo 2:** Corresponde a la directiva
+
+1) Ejecutar los proyectos, los cuales pueden tener ayuda de miembros del consejo
+1) Crear comisiones para realizar los proyectos en los cuales pueden estar personas de la directiva, consejo o representados
+1) Representar a los representados ante la universidad o cualquier instancia participativa
+1) Apoyar a iniciativas estudiantiles
+1) Apoyar a la consejería académica
+1) Obligación total de realizar los informes de transparencia
