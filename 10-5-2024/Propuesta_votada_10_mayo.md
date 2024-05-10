@@ -150,3 +150,5 @@ La lista que se presente puede tener cargos extra, siempre y cuando tengan algui
 1) Dejar en claro quién votó por cada opción
 1) El acta estará en Github en un archivo markdown llamado acta general, la cual contendrá el registro de todas las reuniones llevadas a cabo desde la entrada en funcionamiento del estatuto, la última sesión debe ser la primera que aparece en el acta general
 
+**Artículo 17:** La decisión de paro siempre será mediante plebiscito 
+
