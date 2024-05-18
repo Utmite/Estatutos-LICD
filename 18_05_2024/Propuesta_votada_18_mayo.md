@@ -247,3 +247,5 @@ I. Finalidades, miembros, derechos y deberes de las iniciativas
    1) Un representante de la Directiva quien la preside 
 
 **Artículo 37:** Dicha comisión analizará los alcances y realizará el estudio técnico de la propuesta. Además realizará una aprobación interna de la reforma, que requerirá el voto favorable de la mitad de los integrantes para que esta sea presentada oficialmente y se lleve a plebiscito abierto.
+
+**Artículo 38:** Si una reforma genera una incompatibilidad con los estatutos vigentes, esta en su presentación deberá contener artículos transitorios que establezcan soluciones a las incompatibilidades existentes. La vigencia de estos es de máximo un año sin posibilidad de extensión. Terminado este periodo son eliminados automáticamente de los estatutos vigentes.
