@@ -186,3 +186,18 @@ I. Finalidades, miembros, derechos y deberes de las iniciativas
 **Artículo 24:** Las iniciativas estudiantiles pueden pedir apoyo mediante una carta entregada a un miembro del consejo o de la directiva, la persona que reciba esta carta debe agregar el tema a la tabla sobre apoyar a esa iniciativa.
 
 **Artículo 25:** El consejo votará si aprueba o rechaza la idea de apoyar la iniciativa estudiantil.
+
+**Artículo 26:** Para que una agrupación sea considerada una iniciativa estudiantil asociada al centro LICD, se debe explicitar en un documento presentado al centro LICD lo siguiente:
+
+1) Historia de la iniciativa: La iniciativa debe especificar cómo surge y su trayectoria.
+1) Misión de la iniciativa: Se entiende por misión de la iniciativa, la razón de ser de la iniciativa y el objetivo general de esta, explicitando y concretando qué es lo que hace.
+1) Visión de la iniciativa: Se entiende por visión de la iniciativa, la finalidad de la organización. Se relaciona con explicitar los valores y principios de la iniciativa, y a donde se desea llegar con esta.
+1) Actividades dirigidas a IMC UC.
+1) Rol social que cumple más su aporte a la comunidad de IMC y/o exteriores.
+1) Relación con el centro LICD, en específico, qué necesita del centro LICD. Algunos ejemplos son: espacios, difusión, lanzamientos, ventas, oficina de reuniones, actividades que realizan en ingeniería, entre otros.
+1) Persona(s) encargada(s) de la iniciativa. Se debe entregar al centro LICD la siguiente información sobre la persona encargada: nombre, apellido, correo uc, carrera y número de alumno.
+1) Organigrama de la iniciativa. Se debe mostrar la estructura general de la iniciativa, tomando en cuenta los diferentes cargos y su jerarquía, además se debe incluir una breve descripción de las funciones que cumple cada cargo dentro de la iniciativa.
+1) Las transferencias de dinero a una iniciativa:
+   1) Si son rendidas o sea la iniciativa manda una boleta al encargado de hacienda, si el monto en total que se ha mandado en el tiempo no supera lo asignado, se transfiere
+   1) Si no son rendidas, o sea no se tienen boleta antes de transferir y si el monto en total que se ha mandado en el tiempo no supera lo asignado entonces la transferencia debe ser aprobada por el consejo
+1) En caso que la iniciativa pida difusión, se puede realizar en las cuentas oficiales del centro de estudiantes
