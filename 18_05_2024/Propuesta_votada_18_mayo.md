@@ -233,3 +233,8 @@ I. Finalidades, miembros, derechos y deberes de las iniciativas
 **Artículo 33:** Tipos de reforma 
    1) Estructural; inclusión y eliminación de artículos. 
    1) Gramatical; modificación a la redacción de los estatutos existentes.
+
+**Artículo 34:** Quienes pueden proponer reformas 
+   1) Dos tercios del Consejo de Delegados; conformado por todos los Delegados generacionales y la directiva del Centro de Estudiantes de Ciencias de Datos,
+   1) 20% de los representados,
+   presentando dicha petición en las instancias de asamblea normal o extraordinaria.
