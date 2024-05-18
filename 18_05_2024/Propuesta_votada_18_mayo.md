@@ -178,4 +178,7 @@ La lista que se presente puede tener cargos extra, siempre y cuando tengan algui
 ### Iniciativas estudiantiles
 
 I. Finalidades, miembros, derechos y deberes de las iniciativas
+
 **Artículo 22:** Se entiende por iniciativa estudiantil asociada al Centro de Alumnos de LICD como una agrupación de personas organizada, con un mismo fin desde y/o para la comunidad de IMC UC.
+
+**Artículo 23:** Los estudiantes representados pueden crear iniciativas propias o participar en iniciativas en curso.
