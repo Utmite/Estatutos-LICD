@@ -238,3 +238,5 @@ I. Finalidades, miembros, derechos y deberes de las iniciativas
    1) Dos tercios del Consejo de Delegados; conformado por todos los Delegados generacionales y la directiva del Centro de Estudiantes de Ciencias de Datos,
    1) 20% de los representados,
    presentando dicha petición en las instancias de asamblea normal o extraordinaria.
+
+**Artículo 35:** Toda proposición de reforma estatutaria deberá presentarse por escrito y estar contenida en un proyecto articulado, acompañado de un argumento que justifique la solicitud de la reforma.
