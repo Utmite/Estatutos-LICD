@@ -184,3 +184,5 @@ I. Finalidades, miembros, derechos y deberes de las iniciativas
 **Artículo 23:** Los estudiantes representados pueden crear iniciativas propias o participar en iniciativas en curso.
 
 **Artículo 24:** Las iniciativas estudiantiles pueden pedir apoyo mediante una carta entregada a un miembro del consejo o de la directiva, la persona que reciba esta carta debe agregar el tema a la tabla sobre apoyar a esa iniciativa.
+
+**Artículo 25:** El consejo votará si aprueba o rechaza la idea de apoyar la iniciativa estudiantil.
