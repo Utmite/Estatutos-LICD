@@ -240,3 +240,8 @@ I. Finalidades, miembros, derechos y deberes de las iniciativas
    presentando dicha petición en las instancias de asamblea normal o extraordinaria.
 
 **Artículo 35:** Toda proposición de reforma estatutaria deberá presentarse por escrito y estar contenida en un proyecto articulado, acompañado de un argumento que justifique la solicitud de la reforma.
+
+**Artículo 36:** La propuesta de reforma deberá ser presentada a una comisión creada en asamblea compuesta por : 
+   1) Dos delegados generacionales electos por sorteo
+   1) Tres estudiantes de la carrera electos por sorteo  
+   1) Un representante de la Directiva quien la preside 
