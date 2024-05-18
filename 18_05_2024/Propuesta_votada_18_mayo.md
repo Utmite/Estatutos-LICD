@@ -223,3 +223,5 @@ I. Finalidades, miembros, derechos y deberes de las iniciativas
 **Artículo 30:** Con un grupo de 5 representados se puede proponer a la consejería académica hacer una ayudantía para algún ramo, a la cual pueden asistir personas de cualquier carrera
 
 **Artículo 31:** Con un grupo de 8 representantes se puede convocar una sesión del consejo para hablar de solo un solo tema en específico.
+
+**Artículo 32:** Con 12 representados se puede obligar a la directiva a organizar un proyecto
