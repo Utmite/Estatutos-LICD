@@ -173,3 +173,9 @@ La lista que se presente puede tener cargos extra, siempre y cuando tengan algui
 1) Ayudar al consejero académico
 
 **[No Aprobado] Artículo 21:** La consejería académica tienen la obligación de lograr que la soluciones de las interrogaciones, exámenes, talleres y tareas sean públicas, y posteriormente guardarlas en una la carpeta en la nube (OneDrive) o crear una página web para permitir el acceso u otro medio.
+
+## Poder civil
+### Iniciativas estudiantiles
+
+I. Finalidades, miembros, derechos y deberes de las iniciativas
+**Artículo 22:** Se entiende por iniciativa estudiantil asociada al Centro de Alumnos de LICD como una agrupación de personas organizada, con un mismo fin desde y/o para la comunidad de IMC UC.
