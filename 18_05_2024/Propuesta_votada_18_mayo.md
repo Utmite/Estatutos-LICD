@@ -216,3 +216,4 @@ I. Finalidades, miembros, derechos y deberes de las iniciativas
 1) Presidencia puede asignar fondos a una iniciativa y el consejo debe aprobar el monto propuesto por presidencia
 1) Las transferencias de dinero a una iniciativa respectivas al artículo 27 inciso 10.
 1) El consejo deberá tener la obligación de conocer el estado en el que se encuentra el desarrollo de la iniciativa estudiantil verificando que su desarrollo vaya según lo acordado en el articulo 26. 
+
