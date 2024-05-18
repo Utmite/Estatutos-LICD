@@ -201,3 +201,11 @@ I. Finalidades, miembros, derechos y deberes de las iniciativas
    1) Si son rendidas o sea la iniciativa manda una boleta al encargado de hacienda, si el monto en total que se ha mandado en el tiempo no supera lo asignado, se transfiere
    1) Si no son rendidas, o sea no se tienen boleta antes de transferir y si el monto en total que se ha mandado en el tiempo no supera lo asignado entonces la transferencia debe ser aprobada por el consejo
 1) En caso que la iniciativa pida difusión, se puede realizar en las cuentas oficiales del centro de estudiantes
+
+**Artículo 27:** Los deberes de las iniciativas estudiantiles centro LICD son los siguientes:
+
+1) Hacia el Centro de Alumnos: Luego de ser aprobada como una iniciativa estudiantil centro LICD, esta debe dar a conocer al Centro de Alumnos una persona representante que debe asistir a las reuniones programadas por parte del centro LICD. En caso de cambio de la persona representante de la iniciativa estudiantil, la nueva persona representante debe comunicarse y darse a conocer ante el Centro de Alumnos.
+1) Hacia las personas voluntarias: Una iniciativa centro LICD debe entregar un ambiente grato y seguro para sus integrantes. Si esto no fuese así, en primera instancia la iniciativa debe manejar la situación. En caso de no ser resuelto, acudir al centro LICD como mediador entre la persona afectada y la iniciativa.
+1) Hacia la comunidad: Una iniciativa centro LICD debe velar por generar un beneficio social desde o para la comunidad de IMC UC.
+1) En caso de que alguna persona representante de la iniciativa estudiantil se vea sancionada en algún tipo de falta mayor a la ética ética, tal y como lo señala la dirección de pregrado (DiPre), esta debe dejar su cargo e informar al centro LICD.
+1) Cambios en los horizontes o principios de la iniciativa estudiantil deben ser informados al consejo para que se tome decision de aprobar o no este cambio, en virtud de mantener actualizado el articulo 27.  
