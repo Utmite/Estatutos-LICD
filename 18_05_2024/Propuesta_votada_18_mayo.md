@@ -253,3 +253,11 @@ I. Finalidades, miembros, derechos y deberes de las iniciativas
 **Artículo 39:** La aprobación del Proyecto de Reforma requerirá el voto favorable de la mayoría simple de los representados.
 
 **Artículo 40:** Toda reforma aprobada entrará en vigencia en un plazo de dos semanas desde las votaciones. En las cuales, se debe publicar el nuevo estatuto con la inclusión de la reforma y se debe guardar una copia física en las oficinas de la unidad académica.
+
+## **Capítulo : Sobre los medios de comunicación**
+
+**Artículo 41:** Los medios oficiales de comunicación con la comunidad, deben ser establecidos por la directiva vigente; considerando obligatoriamente el correo institucional. En estos se difundirá toda la información que se quiera y deba hacer llegar a les integrantes de la facultad. Incluyéndose :
+   1) Integrantes de la directiva vigente y medios de comunicación oficiales a utilizar
+   1) Llamados a Asambleas normales y extraordinarias, con la posterior publicación del acta respectiva de la sesión.
+   1) Informaciónes relativas a las votaciones de la directiva, listas postulantes y fechas de los procesos.
+   1) Se deben mantener publicados los estatutos vigentes de cada año.
