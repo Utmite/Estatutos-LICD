@@ -217,3 +217,5 @@ I. Finalidades, miembros, derechos y deberes de las iniciativas
 1) Las transferencias de dinero a una iniciativa respectivas al artículo 27 inciso 10.
 1) El consejo deberá tener la obligación de conocer el estado en el que se encuentra el desarrollo de la iniciativa estudiantil verificando que su desarrollo vaya según lo acordado en el articulo 26. 
 
+### Iniciativas políticas
+**Artículo 29:** Con 5 representados se puede proponer un tema a la tabla del consejo, la petición debe ser entragada al secretario de la directiva
