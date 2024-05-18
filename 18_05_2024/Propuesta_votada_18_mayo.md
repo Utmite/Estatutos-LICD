@@ -245,3 +245,5 @@ I. Finalidades, miembros, derechos y deberes de las iniciativas
    1) Dos delegados generacionales electos por sorteo
    1) Tres estudiantes de la carrera electos por sorteo  
    1) Un representante de la Directiva quien la preside 
+
+**Artículo 37:** Dicha comisión analizará los alcances y realizará el estudio técnico de la propuesta. Además realizará una aprobación interna de la reforma, que requerirá el voto favorable de la mitad de los integrantes para que esta sea presentada oficialmente y se lleve a plebiscito abierto.
