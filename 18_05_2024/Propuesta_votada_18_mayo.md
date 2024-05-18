@@ -95,6 +95,7 @@ La lista que se presente puede tener cargos extra, siempre y cuando tengan algui
 
 ## Poder legislativo
 ### Composición y funciones
+
 **Artículo 11:** El consejo de representantes o simplemente consejo es el órgano legislativo del centro de estudiantes, estará compuesto por 2 (dos) representantes por cada generación (con derecho a voto), el representante de la consejería académica (con derecho a voto) y un representante de la directiva (con derecho a voto)
 
 **Artículo 12:** Corresponde a los representantes generacionales
@@ -116,6 +117,7 @@ La lista que se presente puede tener cargos extra, siempre y cuando tengan algui
 1) Retirar el apoyo a una iniciativa estudiantil
 1) Obligar a la directiva a realizar un proyecto
 1) Aprobar cuanto dinero es asignado a una iniciativa estudiantil, monto propuesto por presidencia
+
 ### Funcionamiento del consejo
 **Artículo 14:** El consejo funcionará de la siguiente manera
 
@@ -225,3 +227,9 @@ I. Finalidades, miembros, derechos y deberes de las iniciativas
 **Artículo 31:** Con un grupo de 8 representantes se puede convocar una sesión del consejo para hablar de solo un solo tema en específico.
 
 **Artículo 32:** Con 12 representados se puede obligar a la directiva a organizar un proyecto
+
+## **Capítulo : Sobre las Reformas**
+
+**Artículo 33:** Tipos de reforma 
+   1) Estructural; inclusión y eliminación de artículos. 
+   1) Gramatical; modificación a la redacción de los estatutos existentes.
