@@ -251,3 +251,5 @@ I. Finalidades, miembros, derechos y deberes de las iniciativas
 **Artículo 38:** Si una reforma genera una incompatibilidad con los estatutos vigentes, esta en su presentación deberá contener artículos transitorios que establezcan soluciones a las incompatibilidades existentes. La vigencia de estos es de máximo un año sin posibilidad de extensión. Terminado este periodo son eliminados automáticamente de los estatutos vigentes.
 
 **Artículo 39:** La aprobación del Proyecto de Reforma requerirá el voto favorable de la mayoría simple de los representados.
+
+**Artículo 40:** Toda reforma aprobada entrará en vigencia en un plazo de dos semanas desde las votaciones. En las cuales, se debe publicar el nuevo estatuto con la inclusión de la reforma y se debe guardar una copia física en las oficinas de la unidad académica.
