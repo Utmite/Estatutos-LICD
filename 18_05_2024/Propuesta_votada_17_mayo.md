@@ -262,3 +262,15 @@ I. Finalidades, miembros, derechos y deberes de las iniciativas
    1) Informaciónes relativas a las votaciones de la directiva, listas postulantes y fechas de los procesos.
    1) Se deben mantener publicados los estatutos vigentes de cada año.
 
+## **Capítulo : Sobre el Tribunal Calificador de Elecciones**
+
+**Artículo 42:** Las funciones del TRICEL son:
+   
+   1) Velar por el cumplimiento de las normas estatutarias y reglamentarias en el respectivo proceso eleccionario. Deberá discutir y aplicar su criterio para discutir ante disyuntivas que puedan existir. 
+   2) Conocer de cualquier asunto relacionado con la elección para la cual se constituye. 
+   3) Complementar lo referente a la mecánica de votación y elección en forma de reglamento instructivo.
+   4) Determinar la lista de personas con derecho a voto de acuerdo a este estatuto
+   5) Distribuir el material necesario para la implementación del acto eleccionario y recoger el mismo, luego de realizado el acto. 
+   6) Atender e investigar los reclamos y observaciones presentados por cualquier representado con respecto a la elección. 
+   7) Emitir resoluciones frente a los casos o reclamos presentados para su fallo y conocimiento, previa deliberación de sus miembros. Las resoluciones serán apelables por vía de consideración ante el Tribunal. 
+   8) Calificar la elección dando su dictamen respecto de la legitimidad o nulidad parcial o total del acto. 
