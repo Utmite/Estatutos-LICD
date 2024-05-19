@@ -261,3 +261,4 @@ I. Finalidades, miembros, derechos y deberes de las iniciativas
    1) Llamados a Asambleas normales y extraordinarias, con la posterior publicación del acta respectiva de la sesión.
    1) Informaciónes relativas a las votaciones de la directiva, listas postulantes y fechas de los procesos.
    1) Se deben mantener publicados los estatutos vigentes de cada año.
+
