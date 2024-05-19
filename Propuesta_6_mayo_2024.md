@@ -308,26 +308,26 @@ abierto.
    4) *Para la elección de Comité Ejecutivo y Consejerías, un docente de la Escuela.*
 
 ## **Capítulo : Elecciones, requisitos y sanciones**
-**Artículo:** Tendrán derecho a votar todos los estudiantes regulares de Pregrado del Instituto de Ingeniería Matemática Computacional, *así como los estudiantes de Magíster en Ingeniería, Magíster en Ciencias de la Ingeniería y Doctorado, salvo cuando este estatuto específicamente indique algo distinto. Tratándose de la elección del Comité Ejecutivo y Consejero Académico, tendrán derecho a voto los estudiantes de College de Licenciatura en Ciencias Naturales que tengan inscrito el major de la Escuela de Ingeniería a comienzos del segundo semestre.*
+**Artículo 51:** Tendrán derecho a votar todos los estudiantes regulares de Pregrado del Instituto de Ingeniería Matemática Computacional
 
-**Artículo:** Todas las elecciones y plebiscitos son válidos solo si en ellos vota al menos el 35% de los alumnos con derecho a voto, salvo que en este estatuto se establezca explícitamente otra cosa. En caso de no cumplirse este quórum, le corresponderá decidir al Consejo que haya llamado a plebiscitar.
+**Artículo 52:** Todas las elecciones y plebiscitos son válidos solo si en ellos vota al menos el 35% de los alumnos con derecho a voto, salvo que en este estatuto se establezca explícitamente otra cosa. En caso de no cumplirse este quórum, le corresponderá decidir al Consejo que haya llamado a plebiscitar.
 
-**Artículo:** Las elecciones o plebiscitos se realizarán siempre a través de una votación universal, directa, secreta, libre e informada, de la siguiente manera: 
+**Artículo 53:** Las elecciones o plebiscitos se realizarán siempre a través de una votación universal, directa, secreta, libre e informada, de la siguiente manera: 
    1) Puede ser tanto de manera presencial como electrónica. El encargado de decidir esto será el Consejo que haga el llamado en la misma sesión en que se inicie el proceso respectivo, según acuerdo de la mayoría absoluta de los votos posibles. En el caso de elecciones, esta sesión deberá ser el día que se cierre el proceso de inscripción. En el caso de plebiscitos, será la misma sesión en que se realice el llamado a éste.
    2) Será responsabilidad del TRICEL organizar y salvaguardar la regularidad del proceso eleccionario o plebiscito, de acuerdo con lo estipulado en el artículo X del Reglamento TRICEL.
-   3) La cuenta de votos se realizará públicamente al final del último día de votación. *Por esto, la(s) urna(s) se guardará(n) en el CAi bajo llave*, en el lugar que estipule el TRICEL, bajo juramento de sus miembros de no hacer ni permitir manipulaciones de ningún tipo.
+   3) La cuenta de votos se realizará públicamente al final del último día de votación. Por esto, la(s) urna(s) se guardará(n) en el Instituto de Ingeniería Matemática Computacional bajo llave, en el lugar que estipule el TRICEL, bajo juramento de sus miembros de no hacer ni permitir manipulaciones de ningún tipo.
 
-**Artículo:** El Comité Ejecutivo, así como la Consejería Académica, durarán un año en sus funciones, pudiendo ser reelegidas si cumplieren con los requisitos. La votación de estos se realizará en una elección que se llevará a cabo de acuerdo con las siguientes normas:
-   1) *El primer día hábil de octubre se abrirán las inscripciones para las postulaciones. Se entenderá como postulante tanto las listas candidatas al Comité Ejecutivo, como las candidaturas a Consejería Académica y Consejería de Postgrado. La apertura de inscripciones deberá ser avisada públicamente con una semana de anticipación. Este proceso de inscripción durará 10 días hábiles, con una preinscripción obligatoria de las candidaturas al finalizar los primeros 5 días hábiles del proceso.*
-   2) Las fechas podrán ser trasladadas con un margen máximo de una semana, previa aprobación del Consejo Generacional bajo quórum calificado. 
-   3) Las listas candidatas al Comité Ejecutivo podrán presentarse como cerradas (con los cargos previamente asignados), o abiertas (que los cargos se determinen de acuerdo a la votación obtenida por cada miembro de la lista). En el caso de presentarse una lista abierta, las personas que la integran deberán cumplir con lo requerido por los artículos 24 (*Requisitos postulación Comité Ejecutivo*) y 25 de esta sección.
-   4) En caso de empate entre candidaturas de una lista abierta, la lista tendrá que confirmar el empate y entregarlo al CAi en ejercicio con un plazo máximo de 2 días hábiles posterior al fin del recuento de votos. 
+**Artículo 54:** El Centro de Alumnos, así como la Consejería Académica, durarán un año en sus funciones, pudiendo ser reelegidas si cumplieren con los requisitos. La votación de estos se realizará en una elección que se llevará a cabo de acuerdo con las siguientes normas:
+   1) El primer día hábil de octubre se abrirán las inscripciones para las postulaciones. Se entenderá como postulante tanto las listas candidatas al Centro de Alumnos, como las candidaturas a Consejería Académica. La apertura de inscripciones deberá ser avisada públicamente con una semana de anticipación. Este proceso de inscripción durará 10 días hábiles, con una preinscripción obligatoria de las candidaturas al finalizar los primeros 5 días hábiles del proceso.
+   2) Las fechas podrán ser trasladadas con un margen máximo de una semana, previa aprobación del Consejo de Delegados bajo quórum calificado. 
+   3) Las listas candidatas al Centro de Alumnos podrán presentarse como cerradas (con los cargos previamente asignados), o abiertas (que los cargos se determinen de acuerdo a la votación obtenida por cada miembro de la lista). En el caso de presentarse una lista abierta, las personas que la integran deberán cumplir con lo requerido por los artículos 24 (*Requisitos postulación Centro de Alumnos*) y 25 de esta sección.
+   4) En caso de empate entre candidaturas de una lista abierta, la lista tendrá que confirmar el empate y entregarlo al Centro de Alumnos en ejercicio con un plazo máximo de 2 días hábiles posterior al fin del recuento de votos. 
    5) No existe restricción con respecto al número máximo de postulantes a ninguna de las tres elecciones, siempre que todos cumplan con los requisitos estipulados en el presente estatuto. 
-   6) El número de personas inscritas en una lista debe corresponder, al menos, al número de cargos estatutarios del Comité Ejecutivo. De no cumplir esto, la lista no puede ser candidata al Centro de Alumnos. 
-   7) El proceso de preinscripción es obligatorio para todas las listas candidatas al Comité Ejecutivo, candidaturas a Consejería de Pregrado, el cual consiste en:
-      - A más tardar a las 18:00 del quinto día hábil de abierto el proceso, cada conjunto de postulantes debe entregar al Centro de Alumnos vigente una lista que contenga el nombre, programa de la Escuela al que pertenece, generación, promedios ponderados semestrales de los últimos tres semestres, promedio ponderado acumulado, mail UC y número de créditos aprobados de cada uno de cada posible integrante del Comité Ejecutivo, candidaturas a Consejería Académica y Consejería de Postgrado. Se debe especificar el cargo al que postula cada persona.
+   6) El número de personas inscritas en una lista debe corresponder, al menos, al número de cargos estatutarios del Centro de Alumnos. De no cumplir esto, la lista no puede ser candidata al Centro de Alumnos. 
+   7) El proceso de preinscripción es obligatorio para todas las listas candidatas al Centro de Alumnas, candidaturas a Consejería de Académica, el cual consiste en:
+      - A más tardar a las 18:00 del quinto día hábil de abierto el proceso, cada conjunto de postulantes debe entregar al Centro de Alumnos vigente una lista que contenga el nombre, programa al que pertenece, generación, promedios ponderados semestrales de los últimos tres semestres, promedio ponderado acumulado, mail UC y número de créditos aprobados de cada uno de cada posible integrante del Centro de Alumnos y candidaturas a Consejería Académica. Se debe especificar el cargo al que postula cada persona.
       - El TRICEL tiene tres días hábiles, desde cerrado el proceso de preinscripción, para validar los requisitos de las candidaturas preinscritas. 
-      - Tanto el Comité Ejecutivo como las Consejerías deben ser postulantes que hayan aprobado el proceso de preinscripción. 
+      - Tanto el Centro de Alumnos como la Consejería Académica deben ser postulantes que hayan aprobado el proceso de preinscripción. 
       - Las listas no pueden ser publicadas, física ni electrónicamente, hasta la validación de la preinscripción por parte del TRICEL.
 
 8) Para inscribirse, se deberá entregar al Centro de Alumnos vigente, a más tardar al décimo día hábil de abierto el proceso a las 18:00 horas, lo siguiente:
@@ -337,7 +337,7 @@ abierto.
       * Una foto de cada persona integrante de la lista. 
       * El programa o plan de trabajo de la lista para su posterior publicación. 
       * Un resumen del documento anterior con largo máximo de una carilla tamaño oficio.
-      * El nombre de su persona apoderada, quien no podrá ser parte del Comité Ejecutivo del **CAi** en ejercicio. 
+      * El nombre de su persona apoderada, quien no podrá ser parte del Centro de Alumnos en ejercicio. 
    - En el caso de las candidaturas a la Consejería Académica: 
       * El nombre de la persona candidata, la cual debe haber aprobado el proceso de preinscripción. 
       * Una foto
@@ -346,66 +346,62 @@ abierto.
 9) Se cerrará el proceso de inscripción diez días hábiles después de haber sido abierto. Si finalizado este plazo alguna elección no tuviera al menos dos postulantes, dicha elección se llevará a cabo aprobando o rechazando a la única persona postulante. Para que una persona postulante salga elegida bajo esta modalidad es necesario que lo apruebe más del 70% de los votos válidamente emitidos. En caso contrario las personas postulantes deberán ser aprobadas por ambos consejos mediante quórum calificado. 
 10) Una vez cerrado el proceso de inscripción, si alguna de las listas debe modificar a sus candidaturas sólo puede realizar un cambio entre el resto de las personas integrantes de la misma.
 11) En el caso de no presentarse ninguna lista dentro de ambos períodos de inscripción, el Centro de Alumnos en ejercicio continuará con sus funciones hasta el mes de marzo del año siguiente, mes en el que se iniciará un nuevo proceso eleccionario. Las fechas de dicho proceso deberán ser definidas en el primer consejo ordinario del Consejo Generacional posterior a las elecciones, siendo el último plazo para la realización de éstas el primer día de abril. El mismo proceso se seguirá en el caso de que se rechace la lista única tanto en las elecciones o en los Consejos, según lo estipulado en el artículo 23(*Votación Comite Ejecutivo*).
-12) El Comité Ejecutivo deberá publicar en su fichero y página web los programas de las listas a lo más dos días hábiles después del cierre de inscripciones.
+12) El Centro de Alumnos deberá publicar en sus redes sociales y github los programas de las listas a lo más dos días hábiles después del cierre de inscripciones.
 13) A lo más 6 días hábiles después del cierre de las inscripciones deberá efectuarse una asamblea general de presentación de los postulantes a las tres elecciones, cuyo objetivo será dar a conocer sus programas y responder las inquietudes del estudiantado. 
 14) A lo más dos días hábiles después de la asamblea de presentación de las listas, se iniciará el período de votación, que se prolongará por dos días hábiles.
 15) Estudiantes que se encuentren cursando Pregrado en el Instituto de Ingeniería Matemática Computacional tendrán derecho a votar por Comité Ejecutivo y por Consejería Académica. 
-16) *SITUACION COLLEGE MAJOR CS DATOS*
-17) *SITUACIÓN ALUMNOS EN ARTICULACIÓN / MAGISTER EN INGEMAT*
-18) El resultado de las elecciones se determinará de la siguiente forma: 
-   - Si en una elección hay una sola postulación, se rige según el inciso H del presente artículo. 
+16) El resultado de las elecciones se determinará de la siguiente forma: 
+   - Si en una elección hay una sola postulación, se rige según el inciso 9 del presente artículo. 
    - Si hay sólo dos personas postulantes resultará elegida aquella que obtenga simple mayoría sobre la otra. Para estos efectos se entenderá que existe simple mayoría si una de las dos listas tiene al menos un voto más que la otra. Para estos efectos no se tomarán en cuenta los votos blancos ni nulos. Si ambas personas postulantes obtienen el mismo número de votos, le corresponderá decidir a los consejos Generacional y Académico por mutuo acuerdo.
    - Si hay tres o más postulantes, quienes obtengan las dos primeras mayorías en la votación, irán a segunda vuelta, siempre y cuando ninguna de ellas obtengan más del 50% de los votos válidamente emitidos. Se entenderá como válidamente emitidos los votos totales sin contar blancos ni nulos. La segunda vuelta se realizará a lo más 5 días hábiles después del término de la primera vuelta, y se regirá como una votación de sólo dos postulantes. 
 
-**Artículo:** Los postulantes al Comité Ejecutivo deberán cumplir, al momento de la preinscripción: 
+**Artículo 55:** Los postulantes al Centro de Alumnos deberán cumplir, al momento de la preinscripción: 
 
-1) Ser alumnos regulares de la Escuela de Ingeniería de la Pontificia Universidad Católica de Chile.
-2) Tener a lo menos tres semestres cursados en la unidad académica o 150 créditos aprobados de algún currículum de *Ingeniería Civil* al momento de la elección. 
+1) Ser alumnos regulares del Instituto de Ingeniería Matemática Computacional de la Pontificia Universidad Católica de Chile.
+2) Tener a lo menos tres semestres cursados en la unidad académica. DISCUTIR
 3) Tener un promedio ponderado de los últimos tres Promedio Semestral de notas (PPS), al momento de la elección, superior o igual a 4,50. 
-4) Esta norma tiene por objetivo que ningún miembro del Comité Ejecutivo caiga en Comisión de Permanencia durante su ejercicio. El organismo oficial de validación es la *Dirección de Pregrado de la Escuela de Ingeniería*.
+4) Esta norma tiene por objetivo que ningún miembro del Comité Ejecutivo caiga en Comisión de Permanencia durante su ejercicio. El organismo oficial de validación es el Instituto de Ingeniería Matemática Computacional.
 5) No haber caído en Comisión de Permanencia durante los últimos dos semestres efectivamente cursados. 
 6) No haber acumulado dos o más alertas académicas en los últimos 3 semestres efectivamente cursados. 
 7) Tener antecedentes de probidad académica intachables. 
 
 El TRICEL será responsable de velar por todos los incisos de este artículo. 
 
-**Artículo:** La candidatura a Presidencia del CAi deberá tener un promedio ponderado acumulado de notas (PPA) superior o igual 4,80 y a lo menos 200 créditos aprobados de algún programa de la Escuela de Ingeniería Civil al momento de la preinscripción.
+**Artículo 56:** La candidatura a Presidencia del Centro de Alumnos deberá tener un promedio ponderado acumulado de notas (PPA) superior o igual 4,80 y a lo menos 150 créditos aprobados de algún programa del Instituto de Ingeniería Matemática Computacional al momento de la preinscripción.
 
-**Artículo:** La candidatura al cargo de Jefatura de Investigación deberá específicamente ser estudiante regular o en vías de grado de Postgrado. (NO SE SI ES NECESARIO)
-
-**Artículo:**  Las candidaturas a Consejería Académica deberán cumplir con los siguientes requisitos, al momento de la preinscripción:
+**Artículo 57:**  Las candidaturas a Consejería Académica deberán cumplir con los siguientes requisitos, al momento de la preinscripción:
    - Ser estudiante regular de algún major o título profesional de Ingeniería Civil(?) con PPA superior 4.80. 
-   - Haber aprobado al menos 200 créditos al momento de inscribir la candidatura.
+   - Haber aprobado al menos 150 créditos al momento de inscribir la candidatura.
    - No haber caído en Comisión de Permanencia o haber acumulado dos o más alertas académicas en los últimos dos semestres efectivamente cursados.
    - Tener antecedentes de probidad académica intachables. El TRICEL será responsable de velar por todos los incisos de este artículo. 
 
-**Artículo:** En caso de no presentarse ninguna candidatura al cargo de Consejería Académica después de los dos períodos estipulados en el artículo 23(*Votaciones*), inciso 8 de esta parte, la Consejería Académica elegirá de entre sus miembros (que cumplan con los requisitos de Consejería Académica) a alguien que asuma el cargo. Esta obligación recaerá ineludiblemente sobre alguno de los Representantes, y ellos deben estar conscientes de dicha condición antes de ser elegidos como tales. El Representante que asuma el cargo tendrá la opción de designar a un reemplazante para su labor previa como representante de especialidad. Todas estas obligaciones corresponderán al Consejo Académico en ejercicio.
+**Artículo 58:** En caso de no presentarse ninguna candidatura al cargo de Consejería Académica después de los dos períodos estipulados en el artículo 23(*Votaciones*), inciso 8 de esta parte, la Consejería Académica elegirá de entre sus miembros (que cumplan con los requisitos de Consejería Académica) a alguien que asuma el cargo. Esta obligación recaerá ineludiblemente sobre alguno de los Representantes, y ellos deben estar conscientes de dicha condición antes de ser elegidos como tales. El Representante que asuma el cargo tendrá la opción de designar a un reemplazante para su labor previa como representante de especialidad. Todas estas obligaciones corresponderán al Consejo Académico en ejercicio.
 
-**Artículo:** La nominación de cada subconsejería se realizará posterior a la elección de Comité Ejecutivo y Consejerías Académicas, bajo los siguientes criterios: 
-   - Para el caso de la Subconsejería Académica, será la Jefatura de Docencia, a menos que la Consejería Académica proponga una persona distinta, quien debe cumplir los requisitos del artículo 24 (Requisitos Comité Ejecutivo)
+**Artículo 59:** La nominación de cada subconsejería se realizará posterior a la elección de Centro de Alumnos y Consejerías Académicas, bajo los siguientes criterios: 
+   - Para el caso de la Subconsejería Académica, será la Consejería Académica quien proponga una persona, quien debe cumplir los requisitos del artículo 24 (Requisitos Centro de Alumnos)
    - Deben ser validadas por mayoría simple en la Consejería Académica en el primer consejo ordinario de la directiva electa.
    - De no ser validado, cada Consejería puede proponer otro nombre entre los representantes existentes que cumplan los requisitos de los artículos 24
 
-**Artículo:** Los Representantes durarán un año en sus funciones. Esta elección se hará de acuerdo a las siguientes normas: 
+**Artículo 60:** Los Representantes durarán un año en sus funciones. Esta elección se hará de acuerdo a las siguientes normas: 
 1) Cada estudiante tendrá derecho a votar por dos candidatos de su respectiva generación. En ningún caso podrá acumular estos dos votos en una misma candidatura. 
 2) Durante la cuarta semana a partir del inicio del primer periodo académico para alumnos antiguos se abrirán las inscripciones para los postulantes. La apertura de inscripciones deberá ser avisada con una semana de anticipación. No existe restricción con respecto al número máximo de postulantes, siempre que todos cumplan con los requisitos estipulados en el presente estatuto. Las fechas podrán ser adelantadas o retrasadas con un margen máximo de dos semanas, previa aprobación del Consejo respectivo bajo quórum calificado.
 
-3) Se cerrará el proceso de inscripciones cinco días hábiles después de haber sido abierto. Durante estos días, los candidatos tendrán la obligación de entregar al CAi los siguientes documentos: 
+3) Se cerrará el proceso de inscripciones cinco días hábiles después de haber sido abierto. Durante estos días, los candidatos tendrán la obligación de entregar al Centro de Alumnos los siguientes documentos: 
 
    - Un escrito que contenga el nombre, rut, mail UC, generación y especialidad, generación por la que postula.
    - Una foto del candidato.
 
-Esta misma información deberá ser enviada por correo electrónico al Secretario General del Comité Ejecutivo. 
+Esta misma información deberá ser enviada por correo electrónico al Secretario General del Centro de Alumnos. 
 
 4) Si sólo se hubiera presentado un candidato o ninguno para alguna generación, se reabrirán las inscripciones para todos los cargos durante los próximos cinco días hábiles para dar la posibilidad que se inscriban más candidatos. 
 5) A lo más cinco días hábiles después del cierre de las inscripciones se iniciará el periodo de votación, el cual se prolongará por dos días hábiles. 
 6) Para los delegados generacionales serán elegidas las dos primeras mayorías.
 
-**Artículo:** Para postular al cargo de Delegado se debe cumplir con los siguientes requisitos:
+**Artículo 61:** Para postular al cargo de Delegado se debe cumplir con los siguientes requisitos:
    - Ser alumno regular de Pregrado del Instituto de Ingeniería Matemática Computacional.
-   - Pertenecer a la generación que representaría y estar cursando a lo menos 30 créditos de cualquiera de las mallas curriculares del Instituto de Ingeniería Matemática Computacional. *Además, presentar en la oficina del CAi 50 firmas que validen la candidatura.*
+   - Pertenecer a la generación que representaría y estar cursando a lo menos 30 créditos de cualquiera de las mallas curriculares del Instituto de Ingeniería Matemática Computacional.
 
-**Artículo:** Los miembros tanto del Consejo Académico como Generacional, así como las Coordinaciones Generales del Centro de Alumnos cesarán en sus cargos, para todos sus efectos, por alguna de las siguientes razones: 
+**Artículo 62:** Los miembros tanto del Consejo Académico como Generacional, así como las Coordinaciones Generales del Centro de Alumnos cesarán en sus cargos, para todos sus efectos, por alguna de las siguientes razones: 
    - Término de su periodo. 
 
    - Tratándose de los delegados, dejar de ser alumno regular de la unidad académica. 
@@ -423,7 +419,7 @@ Esta misma información deberá ser enviada por correo electrónico al Secretari
       * La aprobación de dos tercios de los votos posibles del Consejo al que pertenezca excluyéndose al afectado, en caso de tratarse de algún delegado
    - Caer en Comisión de Permanencia.
    - Involucrarse en situaciones de probidad académica reprochables. El Consejo al que pertenezca será responsable de velar por esto. 
-   - Asumir otro cargo de representación que integre el Consejo Generacional o Académico del **CAi**.
+   - Asumir otro cargo de representación que integre el Consejo Generacional o Académico del Centro de Alumnos.
    - Ejercer alguno de los cargos de representación enunciados a continuación: 
       * Directiva de la FEUC. 
 
@@ -434,7 +430,7 @@ Esta misma información deberá ser enviada por correo electrónico al Secretari
       * Delegatura CONFECh. 
    - Ser elegido o ejercer algún cargo de representación estudiantil en otra Unidad Académica. 
 
-**Artículo:** El número máximo de ausencias a las sesiones del Consejo correspondiente aceptadas a los Representantes, y a los representantes del Comité Ejecutivo es como sigue: 
+**Artículo 63:** El número máximo de ausencias a las sesiones del Consejo correspondiente aceptadas a los Representantes, y a los representantes del Centro de Alumnos es como sigue: 
    - Sesiones Ordinarias: Dos ausencias si no son justificadas, o tres ausencias si alguna de ellas es debidamente justificada. 
 
       Para que una ausencia se considere justificada se debe: avisar con al menos 5 horas de anticipación del consejo y tener algún compromiso previamente establecido a la hora del consejo, o un evento de fuerza mayor que imposibilite asistir al consejo. Quien tiene el poder de validar una justificación es el Secretario General del Comité Ejecutivo, después de recibir el documento oficial de justificación. Es el Secretario quien define cómo indicar cada razón de justificación en el acta. 
@@ -447,13 +443,10 @@ Esta misma información deberá ser enviada por correo electrónico al Secretari
       En caso de que las restricciones 1 o 2 del presente artículo sean violadas, el Representante será sancionado con la pérdida inmediata del derecho a voz y voto en ambas instancias del Consejo al que pertenece (sesiones ordinarias y extraordinarias), si bien podrá seguir representando al estudiantado frente a los profesores de su generación. En el caso del Comité Ejecutivo, este perderá el derecho a voz y voto por el resto de su período. 
       Tratándose de los delegados generacionales, se considerará como ausencia al Consejo Académico el hecho de que ninguno de los dos esté presente. En el caso de no cumplir con las restricciones A o B del presente artículo, se considerará que pierden su derecho a voz y voto por el resto de su período en dicho Consejo.  
 
-**Artículo:** Si alguno de los miembros del Comité Ejecutivo, exceptuando al Presidente, cesare en su cargo, será reemplazado por quien designe el Presidente, con el posible veto de alguno de los Consejos, obtenido mediante votación por quórum calificado. 
+**Artículo 64:** Si alguno de los miembros del Centro de Alumnos, exceptuando al Presidente, cesare en su cargo, será reemplazado por quien designe el Presidente, con el posible veto de alguno de los Consejos, obtenido mediante votación por quórum calificado. 
 
-**Artículo:** Si fuera el Presidente el que cesare en su cargo, asumirá el Primer Vicepresidente por lo que resta del período, efectuando una designación del nuevo Primer Vicepresidente según lo establecido en el artículo anterior.
+**Artículo 65:** Si fuera el Presidente el que cesare en su cargo, asumirá el Primer Vicepresidente por lo que resta del período, efectuando una designación del nuevo Primer Vicepresidente según lo establecido en el artículo anterior.
 
-**Artículo:** Si un delegado cesare en su cargo, se designará a aquel candidato que hubiere obtenido la siguiente mayoría no electa. En caso de que no existiese o no aceptara, el delegado saliente tendrá la posibilidad de proponer un reemplazante al Consejo al que pertenezca, que deberá ser aprobado por mayoría simple. De ser rechazado, el puesto quedará vacante. Si el delegado que cesa en su cargo hubiere perdido el derecho a voto durante su periodo, el delegado que lo reemplazare carecerá del mismo por toda la extensión de su periodo. Si aún lo mantiene, mantendrá el número de ausencias del delegado saliente. 
+**Artículo 66:** Si un delegado cesare en su cargo, se designará a aquel candidato que hubiere obtenido la siguiente mayoría no electa. En caso de que no existiese o no aceptara, el delegado saliente tendrá la posibilidad de proponer un reemplazante al Consejo al que pertenezca, que deberá ser aprobado por mayoría simple. De ser rechazado, el puesto quedará vacante. Si el delegado que cesa en su cargo hubiere perdido el derecho a voto durante su periodo, el delegado que lo reemplazare carecerá del mismo por toda la extensión de su periodo. Si aún lo mantiene, mantendrá el número de ausencias del delegado saliente. 
 
-**Artículo:** Si el Consejero Académico cesare en su cargo, su reemplazante será el Subconsejero Académico.
-
-
-
+**Artículo 67:** Si el Consejero Académico cesare en su cargo, su reemplazante será el Subconsejero Académico.
