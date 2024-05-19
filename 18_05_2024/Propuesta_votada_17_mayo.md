@@ -280,3 +280,4 @@ I. Finalidades, miembros, derechos y deberes de las iniciativas
    2) Dos representantes generacionales escogidos por los representantes de su Consejo en una sola votación.
    3) Los apoderados de las listas postulantes al Comité Ejecutivo si corresponde. Ellos deberán ser alumnos regulares. El cargo de integrante del TRICEL es incompatible con el de candidatura a una elección para la cual se constituye el Tribunal. 
    4) Para la elección de Comité Ejecutivo y Consejerías, un docente de la unidad académica.
+
