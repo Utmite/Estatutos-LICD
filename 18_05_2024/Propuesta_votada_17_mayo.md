@@ -274,3 +274,9 @@ I. Finalidades, miembros, derechos y deberes de las iniciativas
    6) Atender e investigar los reclamos y observaciones presentados por cualquier representado con respecto a la elección. 
    7) Emitir resoluciones frente a los casos o reclamos presentados para su fallo y conocimiento, previa deliberación de sus miembros. Las resoluciones serán apelables por vía de consideración ante el Tribunal. 
    8) Calificar la elección dando su dictamen respecto de la legitimidad o nulidad parcial o total del acto. 
+
+**Artículo 43:** El TRICEL estará compuesto por los siguientes miembros:
+   1) Cualquier miembro del Comité Ejecutivo, el cual será electo de la forma en que este lo estime conveniente. Dicho miembro presidirá el Tribunal.
+   2) Dos representantes generacionales escogidos por los representantes de su Consejo en una sola votación.
+   3) Los apoderados de las listas postulantes al Comité Ejecutivo si corresponde. Ellos deberán ser alumnos regulares. El cargo de integrante del TRICEL es incompatible con el de candidatura a una elección para la cual se constituye el Tribunal. 
+   4) Para la elección de Comité Ejecutivo y Consejerías, un docente de la unidad académica.
