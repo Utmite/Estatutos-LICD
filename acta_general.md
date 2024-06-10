@@ -1,3 +1,52 @@
+# Acta Reunión Redacción de Estatutos 
+# Fecha: 4 de junio de 2024 
+**Sesión n° 4**
+
+Delegados presentes:
+- Antonella Ainzua 24’
+- Francisca Yepsen 23’
+- Vicente Muñoz 23’
+- José Luis Cubillos 22’
+- Rodolfo Cruz 22’
+- Víctor Bórquez 21’
+- Camila Basulto 21’
+
+Temas Tratados:  
+
+1\. **Objetivos de la sesión:** 
+   - Continuar con las votaciones de los artículos propuestos por los diferentes grupos de trabajo.
+     
+2\. **Inclusión de estudiantes de College con Major en Ciencia de Datos y exclusión de estudiantes de Bachillerato:** 
+   - Se votó a favor de incluir a los estudiantes de College con Major en Ciencia de Datos en las votaciones, mientras que se decidió no incluir a los estudiantes de Bachillerato al no ser considerados alumnos regulares.
+3\. **Votación de los artículos propuestos:** 
+   - **Artículo 51: Aprobado**
+     - **A favor:** Vicente, Antonia, Víctor, Rodolfo, Francisca, José Luis
+     - **En contra:** -
+     - **Blanco:** Camila
+     - **Comentarios:** Todos los estudiantes de Ciencia de Datos y los de College con el Major de Ciencia de Datos tienen derecho a voto.
+
+   - **Artículo 52: Rechazado**
+     - **A favor:** -
+     - **En contra:** Vicente, Antonia, Víctor, Camila, Rodolfo, Francisca, José Luis
+     - **Blanco:** -
+     - **Comentarios:** Deberíamos respetar la mayoría dentro de lo que existe y poner un quórum para paro del 35%.
+
+   - **Artículo 53: Aprobado**
+     - **A favor:** Vicente, Antonia, Víctor, Rodolfo, Francisca, Camila, José Luis
+     - **En contra:** -
+     - **Blanco:** -
+     - **Comentarios:** -
+
+   - **Artículo 54: Rechazado**
+     - **A favor:** -
+     - **En contra:** Vicente, Antonia, Víctor, Rodolfo, Francisca, José Luis
+     - **Blanco:** Camila
+     - **Comentarios:** El artículo propuesto es un poco complicado en su redacción actual. Sería mejor dividirlo y hacerlo más claro, tal vez con una tabla que resuma las fases y los plazos. Además, se ha sugerido revisar el sistema de votación, quizás considerando el sistema de Borda en lugar de las dos mayorías actuales, y también modificar quiénes pueden votar. Deberíamos incluir alertas preventivas y establecer un protocolo para los casos de integridad académica. Si alguien tiene problemas de integridad académica, el TRICEL debería revisarlo si han pasado más de dos años. También necesitamos definir la gravedad de las faltas académicas y establecer un protocolo de destitución.
+
+- Continuar la votación de los artículos restantes en la próxima sesión.
+
+Acta elaborada por José Luis Cubillos
+
 # Acta Reunión Delegades de Redacción de Estatutos 
 # Fecha: 10 de mayo de 2024 Asistentes: 
 **Sesión n° 2**
