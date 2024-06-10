@@ -44,6 +44,7 @@ Temas Tratados:
      - **Blanco:** Camila
      - **Comentarios:** El artículo propuesto es un poco complicado en su redacción actual. Sería mejor dividirlo y hacerlo más claro, tal vez con una tabla que resuma las fases y los plazos. Además, se ha sugerido revisar el sistema de votación, quizás considerando el sistema de Borda en lugar de las dos mayorías actuales, y también modificar quiénes pueden votar. Deberíamos incluir alertas preventivas y establecer un protocolo para los casos de integridad académica. Si alguien tiene problemas de integridad académica, el TRICEL debería revisarlo si han pasado más de dos años. También necesitamos definir la gravedad de las faltas académicas y establecer un protocolo de destitución.
 
+Conclusiones: 
 - Continuar la votación de los artículos restantes en la próxima sesión.
 
 Acta elaborada por José Luis Cubillos
