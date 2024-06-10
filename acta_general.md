@@ -18,6 +18,7 @@ Temas Tratados:
      
 2\. **Inclusión de estudiantes de College con Major en Ciencia de Datos y exclusión de estudiantes de Bachillerato:** 
    - Se votó a favor de incluir a los estudiantes de College con Major en Ciencia de Datos en las votaciones, mientras que se decidió no incluir a los estudiantes de Bachillerato al no ser considerados alumnos regulares.
+
 3\. **Votación de los artículos propuestos:** 
    - **Artículo 51: Aprobado**
      - **A favor:** Vicente, Antonia, Víctor, Rodolfo, Francisca, José Luis
