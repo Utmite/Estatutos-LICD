@@ -50,6 +50,33 @@ Conclusiones:
 Acta elaborada por José Luis Cubillos
 
 # Acta Reunión Delegades de Redacción de Estatutos 
+# Fecha: 17 de mayo de 2024 Asistentes: 
+**Sesión n° 2**
+
+- Anabelee Araneda 24’ 
+- Francisca Yepsen 23’ 
+- Vicente Muñoz 23’ 
+- José Luis Cubillos 22’ 
+- Rodolfo Cruz 22’ 
+- Víctor Bórquez 21’ 
+- Camila Basulto 21’ 
+
+**Temas tratados:**
+
+1\. **Objetivos de la reunión:** Se comentan los objetivos de la reunión siendo continuar con las votaciones de los artículos propuestos por cada grupo de trabajo establecido.
+2\. **Votación de los artículos propuestos:** Se realizó la votación de los artículos de la propuesta original desde el número 23 al 50. Además, se establecieron comentarios de les integrantes respecto a acotaciones/modificaciones que harían a artículos específicos. Se dejaron los registros en el repositorio público de Github.  
+3\. **Situación alumnos College/Articulación a Ingeniería:** Al finalizar la reunión se volvió a plantear la discusión sobre si alumnos que vengan de College con Major en Ciencia de Datos y los alumnos que articulan hacia Ingeniería deberían estar disponibles para votar. En honor al tiempo se decidió que lo íbamos a votar en la siguiente reunión, ya que necesitábamos recopilar un poco más de información sobre que es lo que pasaba con otras carreras ante situaciones similares.
+
+Conclusiones:  
+
+- Se continuará la votación de los artículos restantes en la siguiente sesión. 
+- Se realizará una votación sobre la situación de los alumnos College/Articulación a Ingeniería en la siguiente reunión.
+- Se estableció que en la propuesta votada se considerará los números de los artículos según el orden que se encuentran en la propuesta votada, por lo que los números de los artículos de la propuesta original pueden cambiar.
+
+Acta hecha por Víctor Bórquez.
+
+
+# Acta Reunión Delegades de Redacción de Estatutos 
 # Fecha: 10 de mayo de 2024 Asistentes: 
 **Sesión n° 2**
 
