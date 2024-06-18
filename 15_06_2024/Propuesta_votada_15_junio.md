@@ -317,5 +317,8 @@ Esta misma información deberá ser enviada por correo electrónico al Secretari
 5) A lo más cinco días hábiles después del cierre de las inscripciones se iniciará el periodo de votación, el cual se prolongará por dos días hábiles. 
 6) Para los delegados generacionales serán elegidas las dos primeras mayorías.
 
+**Artículo 49:** Para postular al cargo de Delegado se debe cumplir con los siguientes requisitos:
+   - Ser alumno regular de Pregrado de la Licenciatura en Ingeniería en Ciencia de Datos.
+   - Pertenecer a la generación que representaría.
 
 
