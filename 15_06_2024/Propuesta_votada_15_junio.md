@@ -303,7 +303,19 @@ El TRICEL será responsable de velar por todos los incisos de este artículo.
 
 **Artículo 47:** La candidatura a Presidencia del Centro de Alumnos deberá tener un promedio ponderado acumulado de notas (PPA) superior o igual 4,80 al momento de la preinscripción.
 
-**Artículo 48:** 
+**Artículo 48 [MODIFICAR, SISTEMA DE ELECCION DE DELEGADIS]:** Los Representantes durarán un año en sus funciones. Esta elección se hará de acuerdo a las siguientes normas: 
+1) Cada estudiante tendrá derecho a votar por dos candidatos de su respectiva generación. En ningún caso podrá acumular estos dos votos en una misma candidatura. 
+2) Durante la cuarta semana a partir del inicio del primer periodo académico para alumnos antiguos se abrirán las inscripciones para los postulantes. La apertura de inscripciones deberá ser avisada con una semana de anticipación. No existe restricción con respecto al número máximo de postulantes, siempre que todos cumplan con los requisitos estipulados en el presente estatuto. Las fechas podrán ser adelantadas o retrasadas con un margen máximo de dos semanas, previa aprobación del Consejo respectivo bajo quórum calificado.
+3) Se cerrará el proceso de inscripciones cinco días hábiles después de haber sido abierto. Durante estos días, los candidatos tendrán la obligación de entregar al Centro de Alumnos los siguientes documentos: 
+
+   - Un escrito que contenga el nombre, rut, mail U y generación.
+   - Una foto del candidato.
+
+Esta misma información deberá ser enviada por correo electrónico al Secretario General del Centro de Alumnos. 
+
+4) Si sólo se hubiera presentado un candidato o ninguno para alguna generación, se reabrirán las inscripciones para todos los cargos durante los próximos cinco días hábiles para dar la posibilidad que se inscriban más candidatos. 
+5) A lo más cinco días hábiles después del cierre de las inscripciones se iniciará el periodo de votación, el cual se prolongará por dos días hábiles. 
+6) Para los delegados generacionales serán elegidas las dos primeras mayorías.
 
 
 
