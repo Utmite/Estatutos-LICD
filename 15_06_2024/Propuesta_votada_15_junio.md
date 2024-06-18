@@ -302,3 +302,5 @@ I. Finalidades, miembros, derechos y deberes de las iniciativas
 El TRICEL será responsable de velar por todos los incisos de este artículo. 
 
 **Artículo 47:** La candidatura a Presidencia del Centro de Alumnos deberá tener un promedio ponderado acumulado de notas (PPA) superior o igual 4,80 al momento de la preinscripción.
+
+**Artículo 48:** 
