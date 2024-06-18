@@ -290,4 +290,13 @@ I. Finalidades, miembros, derechos y deberes de las iniciativas
    2) Será responsabilidad del TRICEL organizar y salvaguardar la regularidad del proceso eleccionario o plebiscito, de acuerdo con lo estipulado en el artículo X del Reglamento TRICEL.
    3) La cuenta de votos se realizará públicamente al final del último día de votación. Por esto, la(s) urna(s) se guardará(n) en el Instituto de Ingeniería Matemática Computacional bajo llave, en el lugar que estipule el TRICEL, bajo juramento de sus miembros de no hacer ni permitir manipulaciones de ningún tipo.
 
-**Artículo 46:**
+**Artículo 46:** Los postulantes al Centro de Alumnos deberán cumplir, al momento de la preinscripción: 
+
+1) Ser alumnos regulares de la Licenciatura en Ingeniería en Ciencia de Datos.
+2) Estar cursando al menos su tercer semestre académico al momento de asumir el cargo.
+3) Esta norma tiene por objetivo que ningún miembro del Comité Ejecutivo caiga en Comisión de Permanencia durante su ejercicio. El organismo oficial de validación es el Instituto de Ingeniería Matemática Computacional.
+4) No haber caído en Comisión de Permanencia durante los últimos dos semestres efectivamente cursados. 
+5) No haber acumulado dos o más alertas académicas en los últimos 3 semestres efectivamente cursados. 
+6) Si existiesen faltas a la Integridad Académica, El TRICEL decidirá si el postulante es apto o no para la preinscripción. 
+
+El TRICEL será responsable de velar por todos los incisos de este artículo. 
