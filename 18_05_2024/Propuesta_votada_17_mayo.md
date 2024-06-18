@@ -281,6 +281,3 @@ I. Finalidades, miembros, derechos y deberes de las iniciativas
    3) Los apoderados de las listas postulantes al Comité Ejecutivo si corresponde. Ellos deberán ser alumnos regulares. El cargo de integrante del TRICEL es incompatible con el de candidatura a una elección para la cual se constituye el Tribunal. 
    4) Para la elección de Comité Ejecutivo y Consejerías, un docente de la unidad académica.
 
-## **Capítulo : Elecciones, requisitos y sanciones**
-
-**Artículo 44:** Tendrán derecho a votar todos los estudiantes regulares de la Licenciatura en Ingeniería en Ciencia de Datos y aquellos acogidos por el Centro de Estudiantes.
