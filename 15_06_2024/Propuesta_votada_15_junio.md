@@ -358,3 +358,5 @@ Si un miembro deja su cargo por motivos distintos al término de su período y s
 
 **Artículo 53:** Si fuera el Presidente el que cesare en su cargo, asumirá el Primer Vicepresidente por lo que resta del período, efectuando una designación del nuevo Primer Vicepresidente según lo establecido en el artículo anterior.
 
+
+
