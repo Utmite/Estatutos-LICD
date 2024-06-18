@@ -355,3 +355,5 @@ Si un miembro deja su cargo por motivos distintos al término de su período y s
 **Artículo 51:** Si un representante se ausenta en el 60% de las sesiones, esta persona quedará fuera de su cargo y se llamará a reelección.
 
 **Artículo 52:** Si alguno de los miembros del Centro de Alumnos, exceptuando al Presidente, cesare en su cargo, será reemplazado por quien designe el Presidente, con el posible veto de alguno de los Consejos, obtenido mediante votación por quórum calificado. 
+
+**Artículo 53:** Si fuera el Presidente el que cesare en su cargo, asumirá el Primer Vicepresidente por lo que resta del período, efectuando una designación del nuevo Primer Vicepresidente según lo establecido en el artículo anterior.
