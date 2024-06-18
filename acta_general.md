@@ -1,4 +1,27 @@
 # Acta Reunión Redacción de Estatutos 
+# Fecha: 15 de junio de 2024: 
+**Sesión n° 5**
+
+## Asistentes
+- Antonella Ainzua 24´
+- Francisca Yepsen 23´
+- Vicente Muñoz 23´
+- Victor Bórquez 21´
+- Camila Basulto 21´
+
+Temas Tratados:
+
+1\. **Votación de los artículos propuestos:** Se realizó la votación de los articulos de la propuesta original desde el número 51 al 67. Además, se establecieron comentarios de les integrantes respecto a acotaciones/modificaciones que harían a artículos específicos. Se dejaron los registros en el repositorio público de Github.  
+2\. **De la siguiente reunión:** Se decidió distribuir la propuesta con los articulos ya votados entre les delegades (en equipos) para incluir las modificaciones discutidas en las reuniones hasta la fecha. 
+
+Conclusiones:
+- 48 horas antes de la próxima reunión deberán estar subidos los avances para que cada integrante los lea antes de la siguiente reunión.
+- En la siguiente reunión se votará por capitulos de la nueva propuesta.
+
+Acta elaborada por Camila Basulto.
+
+
+# Acta Reunión Redacción de Estatutos 
 # Fecha: 4 de junio de 2024 
 **Sesión n° 4**
 
