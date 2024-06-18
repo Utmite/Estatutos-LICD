@@ -349,5 +349,7 @@ Esta misma información deberá ser enviada por correo electrónico al Secretari
 
       * Delegatura CONFECh. 
    - Ser elegido o ejercer algún cargo de representación estudiantil en otra Unidad Académica. 
-   
+
 Si un miembro deja su cargo por motivos distintos al término de su período y su puesto no fuera llenado, se llamará cada mes a votación para elegir su reemplazo.
+
+**Artículo 51:** Si un representante se ausenta en el 60% de las sesiones, esta persona quedará fuera de su cargo y se llamará a reelección.
