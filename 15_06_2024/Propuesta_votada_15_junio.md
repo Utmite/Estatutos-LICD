@@ -284,3 +284,5 @@ I. Finalidades, miembros, derechos y deberes de las iniciativas
 ## **Capítulo : Elecciones, requisitos y sanciones**
 
 **Artículo 44:** Tendrán derecho a votar todos los estudiantes regulares de la Licenciatura en Ingeniería en Ciencia de Datos y aquellos acogidos por el Centro de Estudiantes.
+
+**Artículo 45:**
