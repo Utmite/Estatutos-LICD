@@ -353,3 +353,5 @@ Esta misma información deberá ser enviada por correo electrónico al Secretari
 Si un miembro deja su cargo por motivos distintos al término de su período y su puesto no fuera llenado, se llamará cada mes a votación para elegir su reemplazo.
 
 **Artículo 51:** Si un representante se ausenta en el 60% de las sesiones, esta persona quedará fuera de su cargo y se llamará a reelección.
+
+**Artículo 52:** Si alguno de los miembros del Centro de Alumnos, exceptuando al Presidente, cesare en su cargo, será reemplazado por quien designe el Presidente, con el posible veto de alguno de los Consejos, obtenido mediante votación por quórum calificado. 
