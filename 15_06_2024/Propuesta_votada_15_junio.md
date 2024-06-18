@@ -321,4 +321,33 @@ Esta misma información deberá ser enviada por correo electrónico al Secretari
    - Ser alumno regular de Pregrado de la Licenciatura en Ingeniería en Ciencia de Datos.
    - Pertenecer a la generación que representaría.
 
+**Artículo 50:** Los miembros tanto del Consejo Académico como Generacional, así como las Coordinaciones Generales del Centro de Alumnos cesarán en sus cargos, para todos sus efectos, por alguna de las siguientes razones: 
+   - Término de su periodo. 
 
+   - Tratándose de los delegados, dejar de ser alumno regular de la unidad académica. 
+
+   - Tratándose de los delegados, no cursar ramos del currículum 
+
+   - Ser destituido por el Consejo al que pertenece por grave infracción a este estatuto. 
+
+   - Renuncia aceptada por el Presidente o formulada como indeclinable. Se deberá presentar la renuncia de forma escrita. 
+
+   - Tratándose del Presidente, por renuncia aceptada por ambos Consejos o formulada como indeclinable. 
+
+   - Por ser inhabilitado en razón de su incapacidad como dirigente estudiantil. Para entender acogida la inhabilidad se requerirá lo siguiente: 
+      * La aprobación de cada Consejo, la cual se obtendrá mediante la aprobación de dos tercios de los votos posibles, si se tratase de un miembro del Comité Ejecutivo, o del Consejero Académico.
+      * La aprobación de dos tercios de los votos posibles del Consejo al que pertenezca excluyéndose al afectado, en caso de tratarse de algún delegado
+   - Caer en Comisión de Permanencia.
+   - Involucrarse en situaciones de probidad académica reprochables. El Consejo al que pertenezca será responsable de velar por esto. 
+   - Asumir otro cargo de representación que integre el Consejo Generacional o Académico del Centro de Alumnos.
+   - Ejercer alguno de los cargos de representación enunciados a continuación: 
+      * Directiva de la FEUC. 
+
+      * Consejería o Subconsejería Superior FEUC. 
+
+      * Consejería Territorial FEUC. 
+
+      * Delegatura CONFECh. 
+   - Ser elegido o ejercer algún cargo de representación estudiantil en otra Unidad Académica. 
+   
+Si un miembro deja su cargo por motivos distintos al término de su período y su puesto no fuera llenado, se llamará cada mes a votación para elegir su reemplazo.
